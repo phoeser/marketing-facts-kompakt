@@ -161,7 +161,7 @@ def page(title, desc, body, path="", og_img=None, cur="", depth=0):
 <button class="theme" onclick="mfkTheme()" aria-label="Hell/Dunkel umschalten" title="Hell/Dunkel"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.5a6.5 6.5 0 0 1 0 13z" fill="currentColor"/></svg></button></div></header>
 <main class="wrap">{body}</main>
 <footer><div class="wrap"><span>© 2026 Paul Höser · Marketing Facts Kompakt</span>
-<nav><a href="{RSS}">RSS</a><a href="{pre}studien/">Studien</a><a href="{pre}ueber/">Über</a><a href="{pre}impressum/">Impressum</a><a href="{pre}datenschutz/">Datenschutz</a></nav></div></footer>
+<nav><a href="{RSS}">RSS</a><a href="{pre}studien/">Studien</a><a href="{pre}ueber/">Über</a><a href="{pre}impressum/">Impressum</a><a href="{pre}datenschutz/">Datenschutz</a><a href="{pre}nutzungsbedingungen/">Nutzungsbedingungen</a></nav></div></footer>
 {PLAYER_JS.format(pre=pre)}</body></html>"""
 
 
@@ -279,13 +279,27 @@ ds = f"""<div class="prose"><h1>Datenschutzerklärung</h1>
 <p class="meta">Stand: November 2026</p></div>"""
 write("datenschutz/index.html", page("Datenschutz – Marketing Facts Kompakt", "Datenschutzerklärung des Podcasts Marketing Facts Kompakt.", ds, path="datenschutz/", depth=1))
 
+# ---------- Nutzungsbedingungen
+nb = f"""<div class="prose"><h1>Nutzungsbedingungen</h1>
+<h2>1. Geltungsbereich</h2><p>Diese Bedingungen gelten für die Nutzung der Website marketing-facts.de mit der Studiendatenbank, des Podcasts „Marketing Facts Kompakt“ und der Erweiterungen für KI-Assistenten, über die die Inhalte in ChatGPT, Claude, Gemini oder anderen Programmen abgerufen werden können (MCP-Server unter mcp.marketing-facts.de samt Plugin und Skill). Anbieter ist Paul Höser, Anschrift im <a href="../impressum/">Impressum</a>.</p>
+<h2>2. Was das Angebot ist</h2><p>Marketing Facts Kompakt prüft verbreitete Marketing-Aussagen gegen die Studienlage. Der MFK-Score ist eine redaktionelle Einschätzung nach offengelegten Regeln (<a href="../studien/methodik/">Methodik</a>). Er bewertet die Belastbarkeit der Befundlage, nicht ob ein Ergebnis gut oder erwünscht ist, und ist weder ein wissenschaftliches Gutachten noch eine Empfehlung.</p>
+<p>Die Nutzung ist kostenlos und ohne Anmeldung möglich. Die Erweiterungen für KI-Assistenten lesen ausschließlich veröffentlichte Inhalte dieser Seite; sie verkaufen nichts, speichern keine Unterhaltungen und legen keine Nutzerkonten an.</p>
+<h2>3. Keine Beratung</h2><p>Alle Inhalte dienen der allgemeinen Information. Sie ersetzen keine Rechts-, Steuer- oder Unternehmensberatung. Für Entscheidungen bitte die verlinkte Primärquelle selbst prüfen.</p>
+<h2>4. Antworten von KI-Assistenten</h2><p>Wenn du die Inhalte über einen KI-Assistenten abrufst, formuliert der Assistent die Antwort selbst. Für diese Formulierung ist der jeweilige Anbieter verantwortlich (zum Beispiel OpenAI, Anthropic oder Google), es gelten zusätzlich dessen Nutzungsbedingungen. Maßgeblich ist immer der Eintrag auf marketing-facts.de, auf den die Antwort verlinkt.</p>
+<h2>5. Faire Nutzung und Lizenz</h2><p>Die Studiendatenbank (Einträge, Kernaussagen, Bewertungen und die Datei studien/daten.json) steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/deed.de" rel="noopener">CC BY 4.0</a>: Du darfst sie mit Quellenangabe „Marketing Facts Kompakt, marketing-facts.de“ nutzen, teilen und bearbeiten. Podcastfolgen, Skripte und die übrigen Texte der Website sind urheberrechtlich geschützt. Nicht erlaubt sind Versuche, die Dienste zu überlasten oder Schutzmechanismen zu umgehen; der MCP-Server begrenzt die Anfragen je Absender, um den Betrieb für alle stabil zu halten. Der Code der Erweiterungen steht unter der MIT-Lizenz.</p>
+<h2>6. Verfügbarkeit und Änderungen</h2><p>Das Angebot wird mit Sorgfalt gepflegt, ein Anspruch auf ständige Verfügbarkeit, Vollständigkeit oder Aktualität besteht nicht. Einträge und Bewertungen können sich ändern, wenn neue Studien erscheinen oder Fehler korrigiert werden. Diese Bedingungen können angepasst werden; es gilt die hier veröffentlichte Fassung.</p>
+<h2>7. Haftung</h2><p>Für Vorsatz und grobe Fahrlässigkeit sowie für Schäden aus der Verletzung von Leben, Körper oder Gesundheit hafte ich nach den gesetzlichen Vorschriften. Im Übrigen ist die Haftung für das unentgeltliche Angebot auf Vorsatz und grobe Fahrlässigkeit beschränkt. Für Inhalte verlinkter fremder Seiten gilt der Abschnitt „Haftung für Inhalte und Links“ im <a href="../impressum/">Impressum</a>.</p>
+<h2>8. Datenschutz, Recht und Kontakt</h2><p>Wie Daten verarbeitet werden, steht in der <a href="../datenschutz/">Datenschutzerklärung</a>, für die Erweiterungen im Abschnitt <a href="../datenschutz/#mcp">KI-Schnittstelle</a>. Es gilt deutsches Recht. Fragen und Hinweise auf Fehler gern per E-Mail: {MAIL_JS}.</p>
+<p class="meta">Stand: November 2026</p></div>"""
+write("nutzungsbedingungen/index.html", page("Nutzungsbedingungen – Marketing Facts Kompakt", "Nutzungsbedingungen für Website, Studiendatenbank, Podcast und KI-Erweiterungen von Marketing Facts Kompakt.", nb, path="nutzungsbedingungen/", depth=1))
+
 # ---------- 404, Stil, Sitemap, robots
 write("404.html", page("Seite nicht gefunden – Marketing Facts Kompakt", "Diese Seite gibt es nicht.",
                        '<div class="prose"><h1>Diese Seite gibt es nicht.</h1><p><a href="/">Zu allen Folgen →</a></p></div>'))
 write("style.css", CSS.strip() + "\n")
 write("site.js", "function mfkTheme(){var r=document.documentElement,n=(r.getAttribute('data-theme')||'dark')==='light'?'dark':'light';r.setAttribute('data-theme',n);try{localStorage.setItem('mfk-theme',n)}catch(e){}}\ndocument.addEventListener('play',function(e){document.querySelectorAll('audio').forEach(function(a){if(a!==e.target)a.pause()})},true);\n")
 write(".nojekyll", "")
-urls = ["", "ueber/", "impressum/", "datenschutz/"] + [f"folge/{e['slug']}/" for e in eps]
+urls = ["", "ueber/", "impressum/", "datenschutz/", "nutzungsbedingungen/"] + [f"folge/{e['slug']}/" for e in eps]
 write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
       "".join(f"<url><loc>{BASE}/{u}</loc></url>\n" for u in urls) + "</urlset>\n")
 write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
