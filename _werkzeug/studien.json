@@ -10405,7 +10405,7 @@
  {
   "id": "nielsen-werbemittel-umsatz-2017",
   "titel_original": "When it comes to advertising effectiveness, what is key?",
-  "titel_de": "Nielsen: Das Werbemittel als größter Umsatztreiber",
+  "titel_de": "Nielsen 2017: Kreation zentral, Media-Anteil gestiegen",
   "autoren": "Nielsen",
   "herausgeber": "Nielsen",
   "jahr": 2017,
@@ -10413,20 +10413,8 @@
   "themen": [
    "Kreation & Werbewirkung"
   ],
-  "kernaussage": "Eine Auswertung von rund 500 Kampagnen fand ebenfalls, dass das Werbemittel knapp die Hälfte des Umsatzeffekts erklärt und die Zielgruppenauswahl nur einen kleinen Teil.",
+  "kernaussage": "Nielsens Auswertung von knapp 500 Konsumgüter-Kampagnen (2016 bis Anfang 2017) fand, dass der Anteil der Media-Faktoren (Reichweite, Targeting, Recency) am Absatzeffekt in rund elf Jahren von 15 auf 36 Prozent gestiegen ist. Für die Kreation nennt Nielsen zum Vergleich 65 Prozent aus Project Apollo (2006); die oft zitierten 47 Prozent stehen nicht in der Quelle.",
   "zahlen": [
-   {
-    "wert": "47 %",
-    "bedeutung": "Anteil des Werbemittels am Umsatzeffekt"
-   },
-   {
-    "wert": "9 %",
-    "bedeutung": "Anteil der Zielgruppenauswahl"
-   },
-   {
-    "wert": "500",
-    "bedeutung": "ausgewertete Kampagnen"
-   },
    {
     "wert": "65 %",
     "bedeutung": "Anteil der Kreation am werbebedingten Absatzzuwachs laut Project Apollo (2006), zum Vergleich genannt"
@@ -10446,24 +10434,24 @@
   ],
   "methode": "Zerlegung der Umsatzwirkung von Kampagnen auf Einflussfaktoren.",
   "datenbasis": "Rund 500 Kampagnen.",
-  "einschraenkungen": "Gleiche Logik überlappender Zerlegung wie bei NCS 2023; vorwiegend Konsumgüter.",
+  "einschraenkungen": "Die häufig Nielsen zugeschriebenen 47 % (Werbemittel) und 9 % (Zielgruppenauswahl) stehen nicht auf der Nielsen-Seite, sie kursieren nur über Sekundärquellen. Die 65 % stammen aus einer älteren Studie von 2006. Zerlegung überlappender Faktoren; vorwiegend Konsumgüter.",
   "interessenlage": "Nielsen verkauft Mess- und Wirkungsforschung.",
   "score": {
    "design": 4,
    "datenbasis": 6,
    "unabhaengigkeit": 5,
-   "replikation": 6,
+   "replikation": 3,
    "uebertragbarkeit": 6,
-   "begruendung": "Große Fallbasis eines Messanbieters; das Ergebnis wurde sechs Jahre später in einer separaten Auswertung sehr ähnlich gefunden.",
+   "begruendung": "Große Fallbasis eines Messanbieters, Methode nur grob beschrieben. Die oft behauptete Bestätigung durch spätere Auswertungen stützt sich auf die 47 %, die in der Quelle nicht vorkommen.",
    "gesamt": 5.2
   },
-  "richtung": "bestaetigt",
+  "richtung": "gemischt",
   "quelle_url": "https://www.nielsen.com/insights/2017/when-it-comes-to-advertising-effectiveness-what-is-key/",
   "zugang": "offen",
   "folgen": [
    7
   ],
-  "stand": "2026-11-06",
+  "stand": "2026-11-07",
   "alias": [
    "nielsen-2017-was-ist-entscheidend-werbewirkung"
   ]
