@@ -1,0 +1,2000 @@
+{
+ "name": "MFK-Marketing-Glossar",
+ "lizenz": "CC BY 4.0",
+ "quelle": "https://marketing-facts.de/glossar/",
+ "anzahl": 92,
+ "begriffe": [
+  {
+   "id": "60-40-regel",
+   "begriff": "60/40-Regel",
+   "en": "60:40 Rule",
+   "kurz": "Faustregel, nach der rund 60 % des Budgets in Markenaufbau und 40 % in Aktivierung fließen sollten.",
+   "text": "Die Zahl stammt aus Binet & Fields Auswertung der IPA-Effectiveness-Datenbank (2013). Die Autoren selbst nennen sie einen Ausgangspunkt, keine eiserne Regel: Das optimale Verhältnis schwankt je nach Kategorie, Marktposition und Kanal. Gemeint sind Ziele und Wirkungen, nicht Kanäle.",
+   "verwechslung": "60 % heißt nicht „TV“ und 40 % nicht „Online“ – beide Kanalarten können beides leisten.",
+   "studien": [
+    "binet-field-long-and-short-2013",
+    "binet-effectiveness-in-context-2018",
+    "binet-davis-budget-payback-2026",
+    "binet-field-5-principles-b2b-2019"
+   ],
+   "folgen": [
+    4
+   ],
+   "verwandt": [
+    "brand-building-vs-activation",
+    "ipa-databank"
+   ],
+   "url": "https://marketing-facts.de/glossar/60-40-regel/"
+  },
+  {
+   "id": "pareto-80-20",
+   "begriff": "80/20-Regel im Marketing",
+   "en": "Pareto Law, 80/20 Rule",
+   "kurz": "Die Behauptung, 20 % der Kunden brächten 80 % des Umsatzes – in Kaufdaten meist eher 50 bis 60 %.",
+   "text": "Paneldaten zeigen für Konsumgütermarken typischerweise, dass die umsatzstärksten 20 % der Käufer gut die Hälfte des Umsatzes bringen, nicht 80 %. Wer sich nur auf Vielkäufer konzentriert, übersieht damit einen großen Teil des Geschäfts.",
+   "verwechslung": "",
+   "studien": [
+    "dawes-et-al-unbearable-lightness-buying-2022",
+    "fader-hardie-lee-counting-customers-bgnbd-2005"
+   ],
+   "folgen": [
+    18,
+    29
+   ],
+   "verwandt": [
+    "light-buyers",
+    "penetration"
+   ],
+   "url": "https://marketing-facts.de/glossar/pareto-80-20/"
+  },
+  {
+   "id": "95-5-regel",
+   "begriff": "95:5-Regel",
+   "en": "95-5 Rule",
+   "kurz": "Annahme aus dem B2B-Marketing, dass nur rund 5 % der potenziellen Kunden gerade kaufbereit sind.",
+   "text": "Die Zahl geht auf das LinkedIn B2B Institute und John Dawes zurück und beruht auf einer einfachen Rechnung: Wenn Unternehmen ihren Anbieter etwa alle fünf Jahre wechseln, ist pro Quartal rund jeder Zwanzigste im Markt. Sie ist eine Modellrechnung, keine gemessene Quote.",
+   "verwechslung": "",
+   "studien": [
+    "dawes-95-5-regel-2021",
+    "netline-95-5-intent-2022",
+    "forrester-95-5-anbieterwechsel-2025",
+    "romaniuk-dawes-nenycz-thiel-brand-growth-2014"
+   ],
+   "folgen": [
+    1,
+    22
+   ],
+   "verwandt": [
+    "b2b-buying-group",
+    "mental-availability"
+   ],
+   "url": "https://marketing-facts.de/glossar/95-5-regel/"
+  },
+  {
+   "id": "adstock",
+   "begriff": "Adstock",
+   "en": "Adstock",
+   "kurz": "Rechengröße im Marketing-Mix-Modell, die abbildet, wie Werbewirkung über die Zeit abklingt.",
+   "text": "Adstock nimmt an, dass ein Teil der Wirkung einer Woche in die Folgewochen übergeht, typischerweise mit einer festen Abklingrate. Die gewählte Rate beeinflusst stark, wie viel Wirkung einem Kanal zugeschrieben wird.",
+   "verwechslung": "",
+   "studien": [
+    "leone-temporal-aggregation-carryover-1995",
+    "shapiro-hitsch-tuchman-tv-288-brands-2021"
+   ],
+   "folgen": [
+    32
+   ],
+   "verwandt": [
+    "carryover",
+    "mmm"
+   ],
+   "url": "https://marketing-facts.de/glossar/adstock/"
+  },
+  {
+   "id": "agentic-commerce",
+   "begriff": "Agentic Commerce",
+   "en": "Agentic Commerce, AI Agents Shopping",
+   "kurz": "Einkaufen, bei dem KI-Agenten Produkte im Auftrag von Menschen suchen, vergleichen und bestellen.",
+   "text": "Erste Bezahl- und Checkout-Standards wie das Agentic Commerce Protocol ermöglichen Käufe direkt im KI-Assistenten. Tatsächlich ausgeführte Käufe durch Agenten sind bisher selten; die meisten Prognosen stammen von Beratungen und Zahlungsanbietern.",
+   "verwechslung": "",
+   "studien": [
+    "checkout-com-agentic-commerce-2026",
+    "forrester-agentic-commerce-2026"
+   ],
+   "folgen": [
+    9
+   ],
+   "verwandt": [
+    "physische-verfuegbarkeit",
+    "geo"
+   ],
+   "url": "https://marketing-facts.de/glossar/agentic-commerce/"
+  },
+  {
+   "id": "anchoring",
+   "begriff": "Ankereffekt",
+   "en": "Anchoring Effect",
+   "kurz": "Eine zuerst genannte Zahl beeinflusst nachfolgende Schätzungen und Zahlungsbereitschaft.",
+   "text": "Der Ankereffekt gehört zu den robusteren Befunden der Verhaltensökonomie, die Stärke schwankt aber stark mit dem Kontext. Im Handel wirken hohe Ausgangspreise oder teure Vergleichsprodukte als Anker.",
+   "verwechslung": "",
+   "studien": [],
+   "folgen": [
+    25
+   ],
+   "verwandt": [
+    "referenzpreis",
+    "preispsychologie"
+   ],
+   "url": "https://marketing-facts.de/glossar/anchoring/"
+  },
+  {
+   "id": "attribution",
+   "begriff": "Attribution",
+   "en": "Attribution, Multi-Touch Attribution",
+   "kurz": "Zuordnung eines Kaufs oder Leads zu den Werbekontakten, die ihm vorausgingen.",
+   "text": "Attributionsmodelle wie Last Click oder datengetriebene Modelle verteilen Erfolg auf Kontaktpunkte. Sie messen aber Zusammenhang, nicht Ursache: Werbung, die Käufer erreicht, die ohnehin gekauft hätten, sieht gut aus. Das eBay-Experiment zur Suchmaschinenwerbung ist das bekannteste Gegenbeispiel.",
+   "verwechslung": "Attribution ist nicht Inkrementalität – sie verteilt Erfolg, ohne zu prüfen, ob er ohne Werbung ausgeblieben wäre.",
+   "studien": [
+    "blake-nosko-tadelis-ebay-2014",
+    "gordon-et-al-facebook-experimente-2019"
+   ],
+   "folgen": [
+    10
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "last-click",
+    "mmm"
+   ],
+   "url": "https://marketing-facts.de/glossar/attribution/"
+  },
+  {
+   "id": "aufmerksamkeit-werbung",
+   "begriff": "Aufmerksamkeit (Attention)",
+   "en": "Attention, Attention Metrics",
+   "kurz": "Wie lange und wie aktiv Menschen eine Anzeige tatsächlich anschauen.",
+   "text": "Messungen per Eyetracking und Panels zeigen, dass ein großer Teil formal sichtbarer Werbung kaum oder gar nicht betrachtet wird. Aufmerksamkeitsmetriken versuchen, Medien nach tatsächlicher Betrachtung statt nach Sichtbarkeit zu bewerten. Die meisten Kennzahlen stammen von Anbietern, die sie verkaufen.",
+   "verwechslung": "Sichtbarkeit (Viewability) heißt nur: Die Anzeige war auf dem Bildschirm – nicht, dass jemand hingesehen hat.",
+   "studien": [
+    "arf-attention-validation-2024",
+    "nelson-field-2020-attention-economy",
+    "brightfish-aufmerksamkeit-medien-2018",
+    "vccp-amplified-1-5-sekunden-2025"
+   ],
+   "folgen": [
+    5
+   ],
+   "verwandt": [
+    "viewability",
+    "wear-out"
+   ],
+   "url": "https://marketing-facts.de/glossar/aufmerksamkeit-werbung/"
+  },
+  {
+   "id": "branding-werbung",
+   "begriff": "Branding in der Werbung",
+   "en": "Branding, Brand Linkage",
+   "kurz": "Wie klar erkennbar ist, von welcher Marke eine Werbung stammt.",
+   "text": "Eine Anzeige kann gefallen und trotzdem wirkungslos sein, wenn sie der falschen Marke zugeschrieben wird. Früh und deutlich eingesetzte Markenelemente verbessern die Zuordnung. Messungen von Ipsos, Kantar und anderen zeigen große Unterschiede zwischen Kampagnen.",
+   "verwechslung": "",
+   "studien": [
+    "iri-tropicana-redesign-2009",
+    "system1-tiktok-short-form-branding-study"
+   ],
+   "folgen": [
+    13
+   ],
+   "verwandt": [
+    "distinctive-brand-assets"
+   ],
+   "url": "https://marketing-facts.de/glossar/branding-werbung/"
+  },
+  {
+   "id": "b2b-buying-group",
+   "begriff": "Buying Group (B2B-Einkaufsgremium)",
+   "en": "Buying Group, Buying Committee",
+   "kurz": "Die Gruppe von Personen, die in Unternehmen gemeinsam über einen Kauf entscheidet.",
+   "text": "B2B-Käufe werden meist von mehreren Beteiligten getragen, etwa Fachabteilung, Einkauf, IT und Geschäftsführung. Studien zeigen, dass Käufer heute einen großen Teil ihrer Recherche abschließen, bevor sie mit dem Vertrieb sprechen. Für Markenwerbung heißt das: alle Beteiligten erreichen, nicht nur den Entscheider.",
+   "verwechslung": "",
+   "studien": [
+    "gartner-b2b-buyer-survey-2025-erhebung",
+    "forrester-state-of-business-buying-2026",
+    "gartner-future-of-sales-2020",
+    "gartner-b2b-buyer-survey-2024-erhebung"
+   ],
+   "folgen": [
+    1,
+    22
+   ],
+   "verwandt": [
+    "95-5-regel"
+   ],
+   "url": "https://marketing-facts.de/glossar/b2b-buying-group/"
+  },
+  {
+   "id": "carryover",
+   "begriff": "Carryover-Effekt",
+   "en": "Carryover Effect, Long-term Effect",
+   "kurz": "Werbewirkung, die erst nach dem Werbezeitraum eintritt oder nachhallt.",
+   "text": "In Marketing-Mix-Modellen wird Carryover über eine Abklingrate (Adstock) abgebildet. Vermarkterstudien wie Profit Ability 2 von Thinkbox finden, dass ein großer Teil des Gewinns erst nach Wochen entsteht. Wer nur kurzfristig misst, unterschätzt deshalb vor allem Markenwerbung.",
+   "verwechslung": "",
+   "studien": [
+    "lodish-55-behaviorscan-long-term-tv-1995",
+    "hohnhold-focus-on-the-long-term-2015",
+    "breuer-brettel-online-advertising-effects-2012",
+    "thinkbox-profit-ability-2-2024"
+   ],
+   "folgen": [
+    32,
+    4
+   ],
+   "verwandt": [
+    "adstock",
+    "mmm",
+    "brand-building-vs-activation"
+   ],
+   "url": "https://marketing-facts.de/glossar/carryover/"
+  },
+  {
+   "id": "category-entry-points",
+   "begriff": "Category Entry Points (CEPs)",
+   "en": "Category Entry Points",
+   "kurz": "Situationen, Bedürfnisse und Anlässe, in denen Käufer an eine Kategorie denken.",
+   "text": "Category Entry Points sind die Auslöser, bei denen ein Kauf in einer Kategorie beginnt, etwa „schnell etwas für unterwegs“ oder „Geschenk für Gastgeber“. Je mehr CEPs mit einer Marke verknüpft sind, desto höher ihre mentale Verfügbarkeit. Das Konzept geht vor allem auf Jenni Romaniuk zurück.",
+   "verwechslung": "Keine Zielgruppensegmente und keine Produkteigenschaften, sondern Kaufsituationen.",
+   "studien": [
+    "romaniuk-2022-category-entry-points-b2b",
+    "romaniuk-bogomolova-dallolmo-riley-2012-brand-image-usage",
+    "romaniuk-nenycz-thiel-2013-loyalty-associations",
+    "romaniuk-2013-modeling-mental-market-share"
+   ],
+   "folgen": [
+    16
+   ],
+   "verwandt": [
+    "mental-availability",
+    "distinctive-brand-assets"
+   ],
+   "url": "https://marketing-facts.de/glossar/category-entry-points/"
+  },
+  {
+   "id": "chatgpt-ads",
+   "begriff": "ChatGPT Ads",
+   "en": "ChatGPT Ads, OpenAI Ads",
+   "kurz": "Werbeanzeigen in ChatGPT, die OpenAI 2026 eingeführt hat.",
+   "text": "OpenAI begann 2026, Anzeigen in ChatGPT zu testen und auszurollen. Angaben zu Umsatz und Reichweite stammen bisher fast ausschließlich von OpenAI selbst und lassen sich unabhängig kaum prüfen.",
+   "verwechslung": "",
+   "studien": [
+    "otterly-chatgpt-ads-study-2026",
+    "similarweb-advertising-in-ai-2026"
+   ],
+   "folgen": [
+    2,
+    33
+   ],
+   "verwandt": [
+    "gea"
+   ],
+   "url": "https://marketing-facts.de/glossar/chatgpt-ads/"
+  },
+  {
+   "id": "churn",
+   "begriff": "Churn (Abwanderung)",
+   "en": "Churn, Attrition",
+   "kurz": "Anteil der Kunden, die in einem Zeitraum kündigen oder nicht mehr kaufen.",
+   "text": "Churn-Modelle sagen voraus, wer abwandern wird. Studien zeigen jedoch, dass Kunden mit dem höchsten Abwanderungsrisiko nicht unbedingt diejenigen sind, bei denen Bindungsmaßnahmen am meisten bewirken.",
+   "verwechslung": "",
+   "studien": [
+    "ascarza-retention-futility-2018",
+    "ascarza-iyengar-schleicher-proaktive-kuendigungspraevention-2016",
+    "de-haan-verhoef-wiesel-feedback-metrics-retention-2015",
+    "romaniuk-sharp-2003-salience-defection"
+   ],
+   "folgen": [
+    29
+   ],
+   "verwandt": [
+    "customer-lifetime-value",
+    "uplift-modeling"
+   ],
+   "url": "https://marketing-facts.de/glossar/churn/"
+  },
+  {
+   "id": "closed-loop",
+   "begriff": "Closed-Loop-Messung",
+   "en": "Closed-Loop Measurement",
+   "kurz": "Messung, bei der Werbekontakt und Kauf in denselben Daten verbunden sind.",
+   "text": "Retail-Media-Netzwerke werben mit Closed-Loop-Messung, weil sie sehen, wer eine Anzeige gesehen und später gekauft hat. Ohne Kontrollgruppe zeigt das aber nur Korrelation, nicht die zusätzliche Wirkung der Werbung.",
+   "verwechslung": "",
+   "studien": [
+    "skai-state-of-retail-media-2026",
+    "omnicom-media-group-latecast-2025",
+    "wpp-media-this-year-next-year-midyear-2026"
+   ],
+   "folgen": [
+    20
+   ],
+   "verwandt": [
+    "retail-media",
+    "inkrementalitaet"
+   ],
+   "url": "https://marketing-facts.de/glossar/closed-loop/"
+  },
+  {
+   "id": "customer-lifetime-value",
+   "begriff": "Customer Lifetime Value (CLV)",
+   "en": "Customer Lifetime Value, CLV, LTV",
+   "kurz": "Erwarteter Gesamtwert eines Kunden über die gesamte Kundenbeziehung.",
+   "text": "Der CLV hilft, Budgets für Gewinnung und Bindung zu begründen. Er ist eine Prognose und hängt stark von Annahmen über Abwanderung und Kaufverhalten ab. Statistische Modelle wie Pareto/NBD schätzen ihn aus Kaufhistorien.",
+   "verwechslung": "",
+   "studien": [
+    "fader-hardie-lee-counting-customers-bgnbd-2005"
+   ],
+   "folgen": [
+    29,
+    18
+   ],
+   "verwandt": [
+    "neukunden-vs-bestandskunden",
+    "churn"
+   ],
+   "url": "https://marketing-facts.de/glossar/customer-lifetime-value/"
+  },
+  {
+   "id": "dark-patterns",
+   "begriff": "Dark Patterns",
+   "en": "Dark Patterns, Deceptive Design",
+   "kurz": "Gestaltungstricks, die Nutzer zu Entscheidungen drängen, die sie sonst nicht treffen würden.",
+   "text": "Beispiele sind versteckte Kündigungswege, vorab angekreuzte Zusatzleistungen oder künstlicher Zeitdruck. Der Digital Services Act verbietet sie bereits für Plattformen, der geplante Digital Fairness Act soll das Verbot ausweiten.",
+   "verwechslung": "",
+   "studien": [
+    "eu-sweep-dark-patterns-online-shops-2023",
+    "eu-behavioural-study-unfair-practices-digital-2022",
+    "mathur-et-al-dark-patterns-at-scale-2019",
+    "luguri-strahilevitz-shining-light-dark-patterns-2021"
+   ],
+   "folgen": [
+    28
+   ],
+   "verwandt": [
+    "digital-fairness-act",
+    "nudging"
+   ],
+   "url": "https://marketing-facts.de/glossar/dark-patterns/"
+  },
+  {
+   "id": "digital-fairness-act",
+   "begriff": "Digital Fairness Act",
+   "en": "Digital Fairness Act",
+   "kurz": "Geplantes EU-Gesetz für faireren Verbraucherschutz im Onlinehandel.",
+   "text": "Der Digital Fairness Act soll Lücken schließen, etwa bei Dark Patterns, Abofallen, personalisierten Preisen und Influencer-Werbung. Die EU-Kommission hat einen Entwurf angekündigt; Details und Zeitplan können sich noch ändern.",
+   "verwechslung": "",
+   "studien": [
+    "eu-fitness-check-consumer-law-2024"
+   ],
+   "folgen": [
+    28
+   ],
+   "verwandt": [
+    "dark-patterns",
+    "kennzeichnung-werbung"
+   ],
+   "url": "https://marketing-facts.de/glossar/digital-fairness-act/"
+  },
+  {
+   "id": "distinctive-brand-assets",
+   "begriff": "Distinctive Brand Assets",
+   "en": "Distinctive Brand Assets, Distinctive Assets",
+   "kurz": "Unverwechselbare Markenelemente wie Farbe, Form, Logo, Figur oder Klang, die ohne Markennamen auf die Marke verweisen.",
+   "text": "Ein Distinctive Asset ist stark, wenn viele Menschen es der Marke zuordnen (Bekanntheit) und kaum einer Konkurrenzmarke (Einzigartigkeit). Studien zeigen, dass Formen und Figuren oft besser erkannt werden als reine Farben. Assets helfen, dass Werbung der richtigen Marke zugeschrieben wird.",
+   "verwechslung": "",
+   "studien": [
+    "phua-bali-anesbury-sharp-2026-shape-assets",
+    "jkr-ipsos-be-distinctive-2023",
+    "ward-yang-romaniuk-beal-2020-brand-identity-elements",
+    "ipsos-power-of-you-2020"
+   ],
+   "folgen": [
+    13,
+    40
+   ],
+   "verwandt": [
+    "sonic-branding",
+    "branding-werbung",
+    "mental-availability"
+   ],
+   "url": "https://marketing-facts.de/glossar/distinctive-brand-assets/"
+  },
+  {
+   "id": "double-jeopardy",
+   "begriff": "Double Jeopardy",
+   "en": "Double Jeopardy Law",
+   "kurz": "Kleine Marken haben weniger Käufer – und diese Käufer sind ihnen auch noch etwas weniger treu.",
+   "text": "Das Double-Jeopardy-Gesetz beschreibt ein in vielen Kategorien wiederholt gefundenes Muster: Marken mit geringem Marktanteil verlieren doppelt, bei der Zahl der Käufer und leicht bei der Kauffrequenz. Es ist ein empirisches Muster, keine Ursache – Loyalität folgt der Größe, nicht umgekehrt.",
+   "verwechslung": "Kein Beleg dafür, dass Loyalitätsmaßnahmen nutzlos sind – nur dafür, dass Loyalität allein kaum Wachstum erklärt.",
+   "studien": [
+    "ehrenberg-goodhardt-barwise-double-jeopardy-1990",
+    "graham-double-jeopardy-2017",
+    "romaniuk-double-jeopardy-b2b-2021",
+    "goodhardt-ehrenberg-chatfield-1984-dirichlet"
+   ],
+   "folgen": [
+    3,
+    18,
+    29
+   ],
+   "verwandt": [
+    "penetration",
+    "loyalitaet",
+    "ehrenberg-bass"
+   ],
+   "url": "https://marketing-facts.de/glossar/double-jeopardy/"
+  },
+  {
+   "id": "third-party-cookies",
+   "begriff": "Drittanbieter-Cookies",
+   "en": "Third-Party Cookies",
+   "kurz": "Cookies, die von anderen Domains als der besuchten Seite gesetzt werden, etwa für Werbetracking.",
+   "text": "Safari und Firefox blockieren sie seit Jahren, Google hat den Ausstieg in Chrome mehrfach verschoben und schließlich aufgegeben. Studien zum Wert von Cookies für Publisher kommen je nach Auftraggeber zu sehr unterschiedlichen Ergebnissen.",
+   "verwechslung": "",
+   "studien": [
+    "ravichandran-korula-google-cookies-publisher-revenue-2019",
+    "google-privacy-preserving-signals-test-2024",
+    "gu-johnson-kobayashi-cookies-field-experiment-2026",
+    "cma-privacy-sandbox-testing-summary-2025"
+   ],
+   "folgen": [
+    30
+   ],
+   "verwandt": [
+    "consent",
+    "mmm"
+   ],
+   "url": "https://marketing-facts.de/glossar/third-party-cookies/"
+  },
+  {
+   "id": "e-mail-roi",
+   "begriff": "E-Mail-ROI",
+   "en": "Email Marketing ROI",
+   "kurz": "Rendite von E-Mail-Marketing, oft mit 36 oder 42 Euro pro eingesetztem Euro angegeben.",
+   "text": "Die bekannten hohen ROI-Zahlen stammen aus Umfragen und Auswertungen von Anbietern und messen zugeschriebenen, nicht zusätzlichen Umsatz. Holdout-Tests finden meist deutlich kleinere, aber oft immer noch positive Effekte.",
+   "verwechslung": "",
+   "studien": [
+    "sahni-wheeler-chintagunta-email-2018",
+    "hillstrom-minethatdata-email-challenge-2008",
+    "zantedeschi-feit-bradlow-catalog-email-2017",
+    "litmus-email-roi-2018"
+   ],
+   "folgen": [
+    36
+   ],
+   "verwandt": [
+    "holdout",
+    "roi-roas",
+    "selbstselektion"
+   ],
+   "url": "https://marketing-facts.de/glossar/e-mail-roi/"
+  },
+  {
+   "id": "ehrenberg-bass",
+   "begriff": "Ehrenberg-Bass-Institut",
+   "en": "Ehrenberg-Bass Institute for Marketing Science",
+   "kurz": "Forschungsinstitut an der University of South Australia, bekannt für empirische Gesetzmäßigkeiten des Kaufverhaltens.",
+   "text": "Das Institut um Byron Sharp und Jenni Romaniuk hat Muster wie Double Jeopardy, Duplication of Purchase und die Bedeutung von Penetration in vielen Kategorien und Ländern repliziert. Bekannt wurde es mit dem Buch „How Brands Grow“. Viele Studien werden von Unternehmen mitfinanziert, die Daten stammen aber aus unabhängigen Panels.",
+   "verwechslung": "",
+   "studien": [
+    "romaniuk-sharp-2003-salience-defection",
+    "romaniuk-2022-category-entry-points-b2b",
+    "romaniuk-sharp-2004-brand-salience",
+    "romaniuk-bogomolova-dallolmo-riley-2012-brand-image-usage"
+   ],
+   "folgen": [
+    3,
+    13,
+    16,
+    18
+   ],
+   "verwandt": [
+    "double-jeopardy",
+    "mental-availability"
+   ],
+   "url": "https://marketing-facts.de/glossar/ehrenberg-bass/"
+  },
+  {
+   "id": "consent",
+   "begriff": "Einwilligung (Consent)",
+   "en": "Consent, Cookie Consent",
+   "kurz": "Zustimmung von Nutzern zur Verarbeitung ihrer Daten, etwa über Cookie-Banner.",
+   "text": "Die DSGVO verlangt für viele Tracking-Zwecke eine freiwillige, informierte Einwilligung. Studien zeigen, dass Gestaltung der Banner die Zustimmungsraten stark beeinflusst – und dass manipulative Designs gegen Datenschutzrecht verstoßen können.",
+   "verwechslung": "",
+   "studien": [
+    "aridor-che-salz-dsgvo-datenindustrie-2023",
+    "johnson-shriver-goldberg-dsgvo-marktkonzentration-2023",
+    "etracker-consent-benchmark-2025"
+   ],
+   "folgen": [
+    30,
+    28
+   ],
+   "verwandt": [
+    "third-party-cookies",
+    "dark-patterns"
+   ],
+   "url": "https://marketing-facts.de/glossar/consent/"
+  },
+  {
+   "id": "emotionale-werbung",
+   "begriff": "Emotionale Werbung",
+   "en": "Emotional Advertising",
+   "kurz": "Werbung, die über Gefühle statt über Argumente wirkt.",
+   "text": "Auswertungen von Award-Fällen und Testpanels finden, dass emotional wirkende Kampagnen im Schnitt stärkere langfristige Geschäftseffekte erzielen als rein rationale. Die meisten Belege stammen aus Fallsammlungen und Pretest-Anbietern, nicht aus Feldexperimenten.",
+   "verwechslung": "",
+   "studien": [
+    "system1-busting-wear-out-myth-2023",
+    "rab-system1-audio-effie-profit-2026",
+    "dmexco-kantar-deutsche-werbung-2025",
+    "system1-fluent-devices-ipa-2019"
+   ],
+   "folgen": [
+    4,
+    7,
+    38
+   ],
+   "verwandt": [
+    "brand-building-vs-activation",
+    "ipa-databank"
+   ],
+   "url": "https://marketing-facts.de/glossar/emotionale-werbung/"
+  },
+  {
+   "id": "engagement-rate",
+   "begriff": "Engagement-Rate",
+   "en": "Engagement Rate",
+   "kurz": "Anteil der Interaktionen (Likes, Kommentare, Teilen) an Reichweite oder Followern.",
+   "text": "Die Engagement-Rate ist leicht zu messen, sagt aber wenig über Absatz. Studien finden nur schwache Zusammenhänge zwischen Social-Media-Interaktionen und Verkäufen. Zudem rechnen Anbieter sie unterschiedlich, was Vergleiche erschwert.",
+   "verwechslung": "",
+   "studien": [
+    "wies-bleier-edeling-2023-goldilocks-influencers",
+    "feng-et-al-live-interaction-returns-2025"
+   ],
+   "folgen": [
+    19,
+    23
+   ],
+   "verwandt": [
+    "influencer-marketing"
+   ],
+   "url": "https://marketing-facts.de/glossar/engagement-rate/"
+  },
+  {
+   "id": "esov",
+   "begriff": "Excess Share of Voice (ESOV)",
+   "en": "Excess Share of Voice",
+   "kurz": "Differenz zwischen Share of Voice und Marktanteil – positiv heißt: mehr Werbedruck als Marktanteil.",
+   "text": "Auswertungen der IPA-Datenbank fanden, dass ein positiver ESOV im Schnitt mit Marktanteilswachstum einhergeht, grob 0,5 Prozentpunkte Wachstum pro 10 Punkte ESOV. Die Zahl stammt aus Award-Fallstudien und gilt für den Durchschnitt, nicht als Formel für eine einzelne Marke.",
+   "verwechslung": "",
+   "studien": [
+    "jones-1990-ad-spending-maintaining-market-share",
+    "nielsen-2009-share-of-voice-upturn",
+    "binet-field-2017-media-in-focus"
+   ],
+   "folgen": [
+    6,
+    17
+   ],
+   "verwandt": [
+    "share-of-voice",
+    "ipa-databank"
+   ],
+   "url": "https://marketing-facts.de/glossar/esov/"
+  },
+  {
+   "id": "light-buyers",
+   "begriff": "Gelegenheitskäufer",
+   "en": "Light Buyers",
+   "kurz": "Käufer, die eine Marke nur selten kaufen – sie machen bei den meisten Marken die Mehrheit aus.",
+   "text": "In fast jeder Kategorie kauft der größte Teil der Kundschaft eine Marke nur ein- oder zweimal im Jahr. Wachstum entsteht vor allem, indem mehr dieser Gelegenheitskäufer erreicht werden. Daraus leitet sich das Argument für breite Reichweite in der Mediaplanung ab.",
+   "verwechslung": "Gelegenheitskäufer sind nicht illoyal, sondern kaufen die Kategorie selten oder streuen über mehrere Marken.",
+   "studien": [
+    "fader-hardie-lee-counting-customers-bgnbd-2005",
+    "dawes-et-al-unbearable-lightness-buying-2022"
+   ],
+   "folgen": [
+    3,
+    18,
+    29
+   ],
+   "verwandt": [
+    "penetration",
+    "pareto-80-20"
+   ],
+   "url": "https://marketing-facts.de/glossar/light-buyers/"
+  },
+  {
+   "id": "gea",
+   "begriff": "Generative Engine Advertising (GEA)",
+   "en": "Generative Engine Advertising, AI Ads",
+   "kurz": "Werbung in oder neben Antworten von KI-Assistenten.",
+   "text": "Erste Werbeformate gibt es in Perplexity, Googles KI-Übersichten und seit 2026 in ChatGPT. Belastbare Daten zur Wirkung fehlen weitgehend; die gemeldeten Zahlen stammen von den Plattformen selbst.",
+   "verwechslung": "",
+   "studien": [
+    "ipsos-werbung-ki-antworten-2026",
+    "otterly-chatgpt-ads-study-2026",
+    "similarweb-advertising-in-ai-2026"
+   ],
+   "folgen": [
+    33,
+    2
+   ],
+   "verwandt": [
+    "geo",
+    "chatgpt-ads"
+   ],
+   "url": "https://marketing-facts.de/glossar/gea/"
+  },
+  {
+   "id": "geo",
+   "begriff": "Generative Engine Optimization (GEO)",
+   "en": "Generative Engine Optimization, AI SEO, LLMO",
+   "kurz": "Maßnahmen, damit Inhalte in Antworten von KI-Assistenten wie ChatGPT oder Perplexity auftauchen.",
+   "text": "GEO überträgt die Idee der Suchmaschinenoptimierung auf generative Antworten. Erste Studien zeigen, dass Zitate, Statistiken und klare Struktur die Sichtbarkeit erhöhen können, die Befunde stammen aber oft aus Laborversuchen mit wenigen Modellen. Der Begriff wurde 2023 in einer Arbeit von Forschern aus Princeton und Delhi geprägt.",
+   "verwechslung": "Nicht dasselbe wie SEO: Es gibt keine Rangliste, sondern eine generierte Antwort, die sich von Anfrage zu Anfrage ändert.",
+   "studien": [
+    "chen-geo-dominate-ai-search-2025",
+    "martinez-critical-survey-geo-2026",
+    "aggarwal-geo-generative-engine-optimization-2024",
+    "chu-hou-2026-incumbent-advantage-llm"
+   ],
+   "folgen": [
+    31,
+    33,
+    35,
+    37,
+    39,
+    15
+   ],
+   "verwandt": [
+    "share-of-model",
+    "zero-click",
+    "ai-overviews"
+   ],
+   "url": "https://marketing-facts.de/glossar/geo/"
+  },
+  {
+   "id": "geo-experiment",
+   "begriff": "Geo-Experiment",
+   "en": "Geo Experiment, Matched Market Test",
+   "kurz": "Test, bei dem Werbung nur in ausgewählten Regionen läuft und mit Vergleichsregionen verglichen wird.",
+   "text": "Geo-Experimente brauchen keine Nutzerdaten und funktionieren auch für Offline-Medien. Bekannt ist das eBay-Experiment, bei dem Markensuchanzeigen in Teilen der USA abgeschaltet wurden – mit kaum messbarem Umsatzverlust.",
+   "verwechslung": "",
+   "studien": [
+    "blake-nosko-tadelis-ebay-2014"
+   ],
+   "folgen": [
+    10
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "holdout"
+   ],
+   "url": "https://marketing-facts.de/glossar/geo-experiment/"
+  },
+  {
+   "id": "geo-messung",
+   "begriff": "GEO-Messung",
+   "en": "GEO Measurement, AI Visibility Tracking",
+   "kurz": "Methoden, um die Sichtbarkeit einer Marke in KI-Antworten zu erfassen.",
+   "text": "Werkzeuge stellen KI-Assistenten viele Fragen und zählen, wie oft eine Marke genannt oder verlinkt wird. Weil Antworten zufallsbedingt schwanken, braucht es große Stichproben und gleichbleibende Fragen. Verkehr aus KI-Assistenten ist in Webanalysen oft nur teilweise erkennbar.",
+   "verwechslung": "",
+   "studien": [
+    "sparktoro-gumshoe-ai-brand-recommendations-2026",
+    "seer-brand-awareness-llm-visibility-2025",
+    "kumar-lakkaraju-llm-product-visibility-2024",
+    "martinez-measuring-geo-visibility-prompt-corpora-2026"
+   ],
+   "folgen": [
+    37,
+    15
+   ],
+   "verwandt": [
+    "share-of-model",
+    "geo"
+   ],
+   "url": "https://marketing-facts.de/glossar/geo-messung/"
+  },
+  {
+   "id": "holdout",
+   "begriff": "Holdout-Gruppe",
+   "en": "Holdout Group, Control Group",
+   "kurz": "Zufällig ausgewählte Gruppe, die eine Maßnahme bewusst nicht bekommt – als Vergleich.",
+   "text": "Holdouts sind der einfachste Weg, die zusätzliche Wirkung von E-Mails, Rabatten oder Werbung zu messen. Sie kosten kurzfristig etwas Umsatz, verhindern aber, dass Maßnahmen bezahlt werden, die nichts bewirken.",
+   "verwechslung": "",
+   "studien": [
+    "hillstrom-minethatdata-email-challenge-2008",
+    "johnson-lewis-nubbemeyer-ghost-ads-2017"
+   ],
+   "folgen": [
+    10,
+    36,
+    24
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "geo-experiment"
+   ],
+   "url": "https://marketing-facts.de/glossar/holdout/"
+  },
+  {
+   "id": "influencer-marketing",
+   "begriff": "Influencer-Marketing",
+   "en": "Influencer Marketing",
+   "kurz": "Werbung über Personen mit eigener Reichweite in sozialen Medien.",
+   "text": "Studien finden, dass das Engagement mit wachsender Followerzahl erst steigt und dann wieder sinkt. Kampagnen mit mittelgroßen Accounts sind daher oft kosteneffizienter. Viele Wirkungszahlen stammen von Plattformen und Agenturen.",
+   "verwechslung": "",
+   "studien": [
+    "beichert-bayerl-goldenberg-lanz-2024-revenue-influencer",
+    "wies-bleier-edeling-2023-goldilocks-influencers",
+    "pan-blut-ghiassaleh-lee-2025-influencer-meta-analysis",
+    "spoerl-wang-krause-henkel-2025-influencer-predictors"
+   ],
+   "folgen": [
+    19
+   ],
+   "verwandt": [
+    "engagement-rate",
+    "kennzeichnung-werbung"
+   ],
+   "url": "https://marketing-facts.de/glossar/influencer-marketing/"
+  },
+  {
+   "id": "inkrementalitaet",
+   "begriff": "Inkrementalität",
+   "en": "Incrementality, Incremental Lift",
+   "kurz": "Der zusätzliche Effekt, der ohne die Werbung nicht eingetreten wäre.",
+   "text": "Inkrementalität wird mit Experimenten gemessen, bei denen eine Kontrollgruppe die Werbung nicht sieht, etwa per Geo-Test oder Holdout. Studien finden, dass die inkrementelle Wirkung oft deutlich kleiner ist als die in Plattformberichten zugeschriebene.",
+   "verwechslung": "",
+   "studien": [
+    "johnson-lewis-nubbemeyer-ghost-ads-2017",
+    "gordon-et-al-facebook-experimente-2019",
+    "blake-nosko-tadelis-ebay-2014",
+    "johnson-lewis-reiley-add-more-ads-2013"
+   ],
+   "folgen": [
+    10,
+    20
+   ],
+   "verwandt": [
+    "attribution",
+    "geo-experiment",
+    "holdout"
+   ],
+   "url": "https://marketing-facts.de/glossar/inkrementalitaet/"
+  },
+  {
+   "id": "ipa-databank",
+   "begriff": "IPA Databank",
+   "en": "IPA Effectiveness Databank",
+   "kurz": "Sammlung von Wirksamkeitsfallstudien aus den IPA Effectiveness Awards in Großbritannien.",
+   "text": "Die Datenbank enthält über 1.000 eingereichte Kampagnenfälle und ist die Grundlage vieler Arbeiten von Binet und Field, etwa zur 60/40-Regel. Weil nur Award-Einreichungen enthalten sind, ist sie positiv verzerrt; die Befunde gelten als Muster, nicht als experimentell gesichert.",
+   "verwechslung": "",
+   "studien": [
+    "binet-davis-budget-payback-2026",
+    "binet-field-long-and-short-2013",
+    "binet-field-2017-media-in-focus",
+    "field-2019-crisis-in-creative-effectiveness"
+   ],
+   "folgen": [
+    4,
+    17
+   ],
+   "verwandt": [
+    "60-40-regel",
+    "esov"
+   ],
+   "url": "https://marketing-facts.de/glossar/ipa-databank/"
+  },
+  {
+   "id": "kennzeichnung-werbung",
+   "begriff": "Kennzeichnung von Werbung",
+   "en": "Ad Disclosure",
+   "kurz": "Pflicht, Werbung und bezahlte Inhalte als solche erkennbar zu machen.",
+   "text": "In Deutschland regeln UWG, Medienstaatsvertrag und Telemediengesetz die Kennzeichnung, auch für Influencer. Seit August 2026 kommen mit der KI-Verordnung Pflichten zur Kennzeichnung bestimmter KI-generierter Inhalte hinzu.",
+   "verwechslung": "",
+   "studien": [
+    "eisend-et-al-2020-disclosing-sponsored-content-meta",
+    "koning-voorveld-2025-ai-disclosure-trust",
+    "baek-kim-kim-2024-ai-disclosure-donation-ads",
+    "luo-et-al-chatbot-disclosure-2019"
+   ],
+   "folgen": [
+    14,
+    19
+   ],
+   "verwandt": [
+    "ki-werbung",
+    "influencer-marketing"
+   ],
+   "url": "https://marketing-facts.de/glossar/kennzeichnung-werbung/"
+  },
+  {
+   "id": "ki-werbung",
+   "begriff": "KI-generierte Werbung",
+   "en": "AI-generated Advertising",
+   "kurz": "Werbemittel, die ganz oder teilweise mit generativer KI erstellt werden.",
+   "text": "Studien zeigen, dass KI-Werbung von Testpersonen ähnlich gut bewertet werden kann wie menschlich erstellte, sofern niemand weiß, dass sie von KI stammt. Wird die KI-Herkunft offengelegt, sinkt die Bewertung oft. Das schafft eine Lücke zwischen Effizienz und Akzeptanz.",
+   "verwechslung": "",
+   "studien": [
+    "exner-hartmann-netzer-zhang-2025-ai-in-disguise",
+    "baek-kim-kim-2024-ai-disclosure-donation-ads",
+    "zhang-gosline-2023-human-favoritism"
+   ],
+   "folgen": [
+    14
+   ],
+   "verwandt": [
+    "kennzeichnung-werbung"
+   ],
+   "url": "https://marketing-facts.de/glossar/ki-werbung/"
+  },
+  {
+   "id": "ai-overviews",
+   "begriff": "KI-Übersichten (AI Overviews)",
+   "en": "AI Overviews, SGE",
+   "kurz": "Von KI erzeugte Zusammenfassungen oberhalb der Suchergebnisse bei Google.",
+   "text": "AI Overviews fassen Antworten aus mehreren Quellen zusammen und verlinken einige davon. Mehrere Analysen finden, dass die Klickrate auf darunterliegende Ergebnisse deutlich sinkt. Welche Quellen zitiert werden, deckt sich nur teilweise mit den klassischen Top-Rankings.",
+   "verwechslung": "",
+   "studien": [
+    "amsive-ai-overviews-brand-2025",
+    "seer-aio-impact-ctr-2025",
+    "ahrefs-ai-overviews-ctr-2026",
+    "sistrix-ai-overviews-deutschland-2026"
+   ],
+   "folgen": [
+    12,
+    35
+   ],
+   "verwandt": [
+    "zero-click",
+    "geo",
+    "ki-quellenwahl"
+   ],
+   "url": "https://marketing-facts.de/glossar/ai-overviews/"
+  },
+  {
+   "id": "frequenz",
+   "begriff": "Kontaktfrequenz",
+   "en": "Frequency, Frequency Cap",
+   "kurz": "Wie oft eine Person dieselbe Werbung in einem Zeitraum sieht.",
+   "text": "Mehr Kontakte bringen abnehmenden Zusatznutzen. Frequenzbegrenzungen (Frequency Caps) sollen verhindern, dass Budget an Menschen geht, die schon genug Kontakte hatten. Die optimale Frequenz hängt von Kategorie, Kreation und Ziel ab.",
+   "verwechslung": "",
+   "studien": [
+    "lewis-worn-out-or-just-getting-started-2015",
+    "johnson-lewis-reiley-add-more-ads-2013",
+    "tellis-effective-frequency-1997",
+    "baek-chen-ma-mitrofanov-email-frequency-2024"
+   ],
+   "folgen": [
+    38,
+    5
+   ],
+   "verwandt": [
+    "wear-out",
+    "reichweite"
+   ],
+   "url": "https://marketing-facts.de/glossar/frequenz/"
+  },
+  {
+   "id": "kreation-vs-targeting",
+   "begriff": "Kreation vs. Targeting",
+   "en": "Creative vs. Targeting",
+   "kurz": "Frage, ob der Werbeerfolg stärker von der Gestaltung oder von der Zielgruppenauswahl abhängt.",
+   "text": "Mehrere Auswertungen, unter anderem von Nielsen, fanden einen großen Anteil der Werbewirkung bei der Kreation. Die oft zitierten 47 % für Nielsen 2017 stehen allerdings nicht in der Quelle; belegt sind 65 % aus Project Apollo (2006) und ein gestiegener Media-Anteil. Präzises Targeting wirkt oft schwächer als angenommen.",
+   "verwechslung": "",
+   "studien": [
+    "nielsen-werbemittel-umsatz-2017",
+    "neumann-tucker-whitfield-profiling-2019"
+   ],
+   "folgen": [
+    7
+   ],
+   "verwandt": [
+    "targeting-genauigkeit",
+    "personalisierung"
+   ],
+   "url": "https://marketing-facts.de/glossar/kreation-vs-targeting/"
+  },
+  {
+   "id": "kundenzufriedenheit",
+   "begriff": "Kundenzufriedenheit",
+   "en": "Customer Satisfaction",
+   "kurz": "Wie zufrieden Kunden mit Produkt, Service und Erlebnis sind.",
+   "text": "Zufriedenheit hängt mit Wiederkauf und Weiterempfehlung zusammen, der Effekt ist aber nicht linear und je nach Branche verschieden. Zufriedene Kunden wandern trotzdem ab, wenn Wettbewerber besser verfügbar oder günstiger sind.",
+   "verwechslung": "",
+   "studien": [
+    "morgan-rego-satisfaction-loyalty-metrics-2006",
+    "van-doorn-leeflang-tijs-satisfaction-replication-2013",
+    "keiningham-et-al-nps-longitudinal-2007",
+    "de-haan-verhoef-wiesel-feedback-metrics-retention-2015"
+   ],
+   "folgen": [
+    27,
+    18
+   ],
+   "verwandt": [
+    "nps",
+    "loyalitaet"
+   ],
+   "url": "https://marketing-facts.de/glossar/kundenzufriedenheit/"
+  },
+  {
+   "id": "decoy-effekt",
+   "begriff": "Köder-Effekt",
+   "en": "Decoy Effect, Asymmetric Dominance",
+   "kurz": "Ein unattraktives Zusatzangebot lässt ein anderes Angebot besser aussehen.",
+   "text": "Das Beispiel ist das Zeitungsabo, bei dem „nur Print“ genauso viel kostet wie „Print plus Online“. Der Effekt ist im Labor gut belegt, in realen Kaufsituationen fällt er oft schwächer aus.",
+   "verwechslung": "",
+   "studien": [
+    "ariely-economist-decoy-2008",
+    "yang-lynn-attraction-effect-2014",
+    "frederick-lee-baskin-attraction-effect-2014"
+   ],
+   "folgen": [
+    25
+   ],
+   "verwandt": [
+    "preispsychologie",
+    "anchoring"
+   ],
+   "url": "https://marketing-facts.de/glossar/decoy-effekt/"
+  },
+  {
+   "id": "last-click",
+   "begriff": "Last-Click-Attribution",
+   "en": "Last-Click Attribution",
+   "kurz": "Modell, das den gesamten Erfolg dem letzten Klick vor dem Kauf zuschreibt.",
+   "text": "Last Click bevorzugt Kanäle nah am Kauf wie Markensuche, Gutscheinseiten und Retargeting. Markenwerbung, die den Bedarf erst weckt, geht dabei fast leer aus. Trotz bekannter Schwächen ist das Modell weit verbreitet, weil es einfach ist.",
+   "verwechslung": "",
+   "studien": [
+    "blake-nosko-tadelis-ebay-2014",
+    "gordon-et-al-facebook-experimente-2019"
+   ],
+   "folgen": [
+    10
+   ],
+   "verwandt": [
+    "attribution",
+    "brand-search"
+   ],
+   "url": "https://marketing-facts.de/glossar/last-click/"
+  },
+  {
+   "id": "llms-txt",
+   "begriff": "llms.txt",
+   "en": "llms.txt",
+   "kurz": "Vorgeschlagene Textdatei, mit der Webseiten KI-Systemen ihre wichtigsten Inhalte strukturiert anbieten.",
+   "text": "Die Idee ähnelt robots.txt und sitemap.xml: Eine Markdown-Datei im Wurzelverzeichnis listet zentrale Seiten mit Kurzbeschreibung. Ob große KI-Anbieter die Datei tatsächlich nutzen, ist bisher kaum belegt; marketing-facts.de stellt eine bereit.",
+   "verwechslung": "",
+   "studien": [
+    "ahrefs-llms-txt-study-2026",
+    "fletcher-news-websites-block-ai-crawlers-2024",
+    "ahrefs-schema-ai-citations-2026",
+    "vercel-merj-rise-of-ai-crawler-2024"
+   ],
+   "folgen": [
+    39
+   ],
+   "verwandt": [
+    "geo",
+    "strukturierte-daten"
+   ],
+   "url": "https://marketing-facts.de/glossar/llms-txt/"
+  },
+  {
+   "id": "loyalitaetsprogramme",
+   "begriff": "Loyalitätsprogramme",
+   "en": "Loyalty Programs",
+   "kurz": "Bonusprogramme, Punkte und Kundenkarten, die Wiederkauf belohnen sollen.",
+   "text": "Studien finden meist kleine Effekte: Programme ziehen vor allem Kunden an, die ohnehin häufig kaufen. Rechnet man diese Selbstselektion heraus, schrumpft der Effekt deutlich. Ihr Wert liegt oft eher in den gewonnenen Daten als im Treueeffekt.",
+   "verwechslung": "",
+   "studien": [
+    "sharp-sharp-1997-loyalty-programs-fly-buys",
+    "chen-evanschitzky-blut-2026-loyalty-program-meta-analysis",
+    "belli-et-al-2022-loyalty-programs-meta-analysis",
+    "leenheer-van-heerde-bijmolt-smidts-2007-self-selection"
+   ],
+   "folgen": [
+    18
+   ],
+   "verwandt": [
+    "loyalitaet",
+    "selbstselektion"
+   ],
+   "url": "https://marketing-facts.de/glossar/loyalitaetsprogramme/"
+  },
+  {
+   "id": "brand-building-vs-activation",
+   "begriff": "Markenaufbau vs. Abverkauf",
+   "en": "Brand Building vs. Sales Activation",
+   "kurz": "Unterscheidung zwischen langfristiger Markenwirkung und kurzfristiger Aktivierung von Käufen.",
+   "text": "Binet und Field zeigten in Award-Fallstudien, dass emotionale, breit gestreute Markenwerbung über Jahre wirkt, während gezielte Aktivierung schnelle, aber kurzlebige Effekte bringt. Beides ergänzt sich; die 60/40-Faustregel ist ein Durchschnittswert für die Aufteilung.",
+   "verwechslung": "",
+   "studien": [
+    "binet-field-long-and-short-2013",
+    "binet-effectiveness-in-context-2018"
+   ],
+   "folgen": [
+    4,
+    17
+   ],
+   "verwandt": [
+    "60-40-regel",
+    "carryover",
+    "ipa-databank"
+   ],
+   "url": "https://marketing-facts.de/glossar/brand-building-vs-activation/"
+  },
+  {
+   "id": "brand-search",
+   "begriff": "Markensuche (Brand Search)",
+   "en": "Brand Search, Brand Bidding",
+   "kurz": "Suchanzeigen auf den eigenen Markennamen.",
+   "text": "Bei Markensuchen klicken Nutzer oft auch ohne Anzeige auf das organische Ergebnis. Das eBay-Experiment fand, dass bezahlte Markensuche kaum zusätzlichen Umsatz brachte. Bei starkem Wettbewerb auf den Markennamen kann sie dennoch sinnvoll sein.",
+   "verwechslung": "",
+   "studien": [
+    "blake-nosko-tadelis-ebay-2014"
+   ],
+   "folgen": [
+    10
+   ],
+   "verwandt": [
+    "last-click",
+    "inkrementalitaet"
+   ],
+   "url": "https://marketing-facts.de/glossar/brand-search/"
+  },
+  {
+   "id": "loyalitaet",
+   "begriff": "Markentreue (Loyalität)",
+   "en": "Brand Loyalty",
+   "kurz": "Neigung von Kunden, eine Marke wiederholt zu kaufen.",
+   "text": "In den meisten Kategorien ist Loyalität geteilt: Kunden kaufen mehrere Marken und wechseln häufig. Die Höhe der Treue folgt dabei weitgehend der Markengröße (Double Jeopardy). Loyalitätsprogramme erhöhen sie meist nur geringfügig.",
+   "verwechslung": "",
+   "studien": [
+    "reinartz-kumar-mismanagement-loyalty-2002",
+    "sharp-sharp-1997-loyalty-programs-fly-buys",
+    "keiningham-et-al-loyalty-myths-2005",
+    "graham-double-jeopardy-2017"
+   ],
+   "folgen": [
+    18,
+    3,
+    29
+   ],
+   "verwandt": [
+    "double-jeopardy",
+    "loyalitaetsprogramme"
+   ],
+   "url": "https://marketing-facts.de/glossar/loyalitaet/"
+  },
+  {
+   "id": "marketer-bubble",
+   "begriff": "Marketer-Blase",
+   "en": "Marketer Bubble",
+   "kurz": "Abweichung zwischen dem, was Marketer über Kunden glauben, und dem, wie Kunden tatsächlich denken.",
+   "text": "Studien zeigen, dass Marketingverantwortliche jünger, digitaler und markenaffiner sind als ihre Kunden und deren Interesse an Marken überschätzen. Daraus entstehen Fehleinschätzungen bei Kanälen, Botschaften und Zielgruppen.",
+   "verwechslung": "",
+   "studien": [
+    "reach-solutions-empathy-delusion-2019",
+    "kantar-media-reactions-2025",
+    "brus-hartnett-faulkner-driesener-2026-marketer-judgement"
+   ],
+   "folgen": [
+    11
+   ],
+   "verwandt": [
+    "marktforschung-umfragen"
+   ],
+   "url": "https://marketing-facts.de/glossar/marketer-bubble/"
+  },
+  {
+   "id": "mmm",
+   "begriff": "Marketing-Mix-Modellierung (MMM)",
+   "en": "Marketing Mix Modeling, Media Mix Modeling",
+   "kurz": "Statistisches Verfahren, das den Beitrag einzelner Marketingkanäle zum Absatz aus Zeitreihen schätzt.",
+   "text": "MMM nutzt aggregierte Daten wie wöchentliche Ausgaben und Umsätze und braucht keine Nutzerdaten, was es mit dem Ende der Cookies wieder beliebt macht. Ergebnisse hängen stark von Modellannahmen ab; gute Modelle werden mit Experimenten kalibriert. Neue Open-Source-Werkzeuge stammen von Google (Meridian) und Meta (Robyn).",
+   "verwechslung": "",
+   "studien": [
+    "clarke-duration-advertising-effect-1976",
+    "shapiro-hitsch-tuchman-tv-288-brands-2021",
+    "thinkbox-profit-ability-2-2024"
+   ],
+   "folgen": [
+    10,
+    32,
+    17
+   ],
+   "verwandt": [
+    "attribution",
+    "inkrementalitaet",
+    "adstock"
+   ],
+   "url": "https://marketing-facts.de/glossar/mmm/"
+  },
+  {
+   "id": "share-of-market",
+   "begriff": "Marktanteil (Share of Market)",
+   "en": "Market Share",
+   "kurz": "Anteil einer Marke am Umsatz oder Absatz ihrer Kategorie.",
+   "text": "Der Marktanteil ist die Bezugsgröße für Kennzahlen wie Share of Voice und Share of Search. Er hängt nach der Ehrenberg-Bass-Forschung vor allem an der Zahl der Käufer, weniger an deren Treue.",
+   "verwechslung": "",
+   "studien": [
+    "jones-1990-ad-spending-maintaining-market-share",
+    "binet-share-of-search-2020",
+    "quantilope-mental-availability-meta-2024"
+   ],
+   "folgen": [
+    3,
+    6
+   ],
+   "verwandt": [
+    "share-of-voice",
+    "share-of-search",
+    "penetration"
+   ],
+   "url": "https://marketing-facts.de/glossar/share-of-market/"
+  },
+  {
+   "id": "mental-availability",
+   "begriff": "Mentale Verfügbarkeit",
+   "en": "Mental Availability",
+   "kurz": "Wie leicht eine Marke Käufern in einer Kaufsituation in den Sinn kommt.",
+   "text": "Mentale Verfügbarkeit beschreibt, wie viele Menschen bei wie vielen Kaufanlässen an eine Marke denken. Das Ehrenberg-Bass-Institut sieht sie neben der physischen Verfügbarkeit als wichtigsten Wachstumshebel. Gemessen wird sie meist über Verknüpfungen der Marke mit Category Entry Points.",
+   "verwechslung": "Nicht dasselbe wie Markenbekanntheit: Eine Marke kann bekannt sein und trotzdem in der Kaufsituation nicht einfallen.",
+   "studien": [
+    "romaniuk-2022-category-entry-points-b2b",
+    "romaniuk-bogomolova-dallolmo-riley-2012-brand-image-usage",
+    "ward-yang-romaniuk-beal-2020-brand-identity-elements",
+    "romaniuk-nenycz-thiel-2013-loyalty-associations"
+   ],
+   "folgen": [
+    16,
+    3,
+    13
+   ],
+   "verwandt": [
+    "category-entry-points",
+    "physische-verfuegbarkeit",
+    "distinctive-brand-assets"
+   ],
+   "url": "https://marketing-facts.de/glossar/mental-availability/"
+  },
+  {
+   "id": "meta-analyse",
+   "begriff": "Meta-Analyse",
+   "en": "Meta-Analysis",
+   "kurz": "Statistische Zusammenfassung vieler Einzelstudien zu einer Frage.",
+   "text": "Meta-Analysen liefern belastbarere Schätzungen als einzelne Studien, sind aber nur so gut wie die eingeschlossenen Arbeiten. Im MFK-Score bekommen sie das Design der eingeschlossenen Studien plus einen Punkt.",
+   "verwechslung": "",
+   "studien": [
+    "scheibehenne-greifeneder-todd-choice-overload-2010",
+    "chernev-boeckenholt-goodman-choice-overload-2015",
+    "jachimowicz-et-al-defaults-meta-2019",
+    "mertens-et-al-nudging-meta-2022"
+   ],
+   "folgen": [
+    21
+   ],
+   "verwandt": [
+    "publication-bias",
+    "mfk-score"
+   ],
+   "url": "https://marketing-facts.de/glossar/meta-analyse/"
+  },
+  {
+   "id": "mfk-score",
+   "begriff": "MFK-Score",
+   "en": "MFK-Score",
+   "kurz": "Bewertung der Belastbarkeit einer Studie von 0 bis 10 in der Studiendatenbank von Marketing Facts Kompakt.",
+   "text": "Der Score fasst fünf Achsen zusammen: Studiendesign (30 %), Datenbasis (15 %), Unabhängigkeit (20 %), Replikation (25 %) und Übertragbarkeit (10 %). Er bewertet, wie gut eine Aussage belegt ist, nicht ob das Ergebnis gut oder erwünscht ist.",
+   "verwechslung": "",
+   "studien": [],
+   "folgen": [],
+   "verwandt": [
+    "replikationskrise",
+    "meta-analyse"
+   ],
+   "url": "https://marketing-facts.de/glossar/mfk-score/"
+  },
+  {
+   "id": "nps",
+   "begriff": "Net Promoter Score (NPS)",
+   "en": "Net Promoter Score",
+   "kurz": "Kennzahl aus der Frage, wie wahrscheinlich jemand ein Unternehmen weiterempfehlen würde.",
+   "text": "Der NPS ist der Anteil der „Promotoren“ (9–10 Punkte) minus der „Detraktoren“ (0–6). Die Behauptung, er sei der beste Einzelprädiktor für Wachstum, ließ sich in unabhängigen Studien nicht bestätigen; andere Zufriedenheitsmaße sagen Wachstum ähnlich gut oder besser voraus.",
+   "verwechslung": "",
+   "studien": [
+    "keiningham-et-al-nps-longitudinal-2007",
+    "wohllebe-et-al-nps-german-ecommerce-2026",
+    "reichheld-one-number-you-need-to-grow-2003",
+    "dawes-net-promoter-revenue-growth-2024"
+   ],
+   "folgen": [
+    27
+   ],
+   "verwandt": [
+    "kundenzufriedenheit"
+   ],
+   "url": "https://marketing-facts.de/glossar/nps/"
+  },
+  {
+   "id": "neukunden-vs-bestandskunden",
+   "begriff": "Neukunden vs. Bestandskunden",
+   "en": "Customer Acquisition vs. Retention",
+   "kurz": "Die verbreitete Annahme, Neukundengewinnung sei fünf- bis siebenmal teurer als Kundenbindung.",
+   "text": "Die Zahl wird seit Jahrzehnten zitiert, eine belastbare Primärquelle dafür fehlt. Paneldaten zeigen zudem, dass Wachstum überwiegend über neue und gelegentliche Käufer entsteht. Bindung lohnt sich, ersetzt aber keine Reichweite.",
+   "verwechslung": "",
+   "studien": [
+    "ascarza-retention-futility-2018",
+    "reichheld-sasser-zero-defections-1990",
+    "reichheld-bain-brief-cutting-costs-2001",
+    "reichheld-schefter-e-loyalty-2000"
+   ],
+   "folgen": [
+    29
+   ],
+   "verwandt": [
+    "penetration",
+    "customer-lifetime-value"
+   ],
+   "url": "https://marketing-facts.de/glossar/neukunden-vs-bestandskunden/"
+  },
+  {
+   "id": "nudging",
+   "begriff": "Nudging",
+   "en": "Nudging, Choice Architecture",
+   "kurz": "Kleine Änderungen der Entscheidungsumgebung, die Verhalten ohne Zwang lenken sollen.",
+   "text": "Nudges wie Voreinstellungen (Defaults) wirken oft gut. Eine Meta-Analyse unter Korrektur des Publication Bias fand für viele andere Nudges jedoch nur kleine oder keine Effekte. In der Werbung werden Effekte aus Laborstudien häufig überschätzt.",
+   "verwechslung": "",
+   "studien": [
+    "mertens-et-al-nudging-meta-2022",
+    "maier-et-al-no-evidence-nudging-2022",
+    "dellavigna-linos-nudge-units-2022",
+    "jachimowicz-et-al-defaults-meta-2019"
+   ],
+   "folgen": [
+    21,
+    25
+   ],
+   "verwandt": [
+    "replikationskrise",
+    "dark-patterns"
+   ],
+   "url": "https://marketing-facts.de/glossar/nudging/"
+  },
+  {
+   "id": "online-bewertungen",
+   "begriff": "Online-Bewertungen",
+   "en": "Online Reviews, Ratings",
+   "kurz": "Sternebewertungen und Rezensionen von Kunden auf Plattformen und Shops.",
+   "text": "Studien finden, dass Bewertungen Kaufentscheidungen deutlich beeinflussen, vor allem die erste Handvoll und der Durchschnitt um vier Sterne. Perfekte 5,0-Bewertungen wirken weniger glaubwürdig als 4,2 bis 4,7. Gefälschte Bewertungen sind in der EU verboten.",
+   "verwechslung": "",
+   "studien": [
+    "he-hollenbeck-proserpio-market-fake-reviews-2022",
+    "spiegel-powerreviews-online-reviews-sales-2017",
+    "luca-reviews-reputation-revenue-yelp-2016",
+    "floyd-online-reviews-retail-sales-meta-2014"
+   ],
+   "folgen": [
+    34
+   ],
+   "verwandt": [
+    "social-proof"
+   ],
+   "url": "https://marketing-facts.de/glossar/online-bewertungen/"
+  },
+  {
+   "id": "penetration",
+   "begriff": "Penetration (Käuferreichweite)",
+   "en": "Penetration, Household Penetration",
+   "kurz": "Anteil der Kategoriekäufer, die eine Marke in einem Zeitraum mindestens einmal kaufen.",
+   "text": "Penetration ist in Paneldaten die Kennzahl, die Unterschiede im Marktanteil am stärksten erklärt. Wachsende Marken gewinnen vor allem neue und gelegentliche Käufer, weniger zusätzliche Käufe ihrer Stammkunden. Deshalb betont die evidenzbasierte Markenführung Reichweite statt enger Zielgruppen.",
+   "verwechslung": "",
+   "studien": [
+    "romaniuk-dawes-nenycz-thiel-brand-growth-2014",
+    "sharp-sharp-1997-loyalty-programs-fly-buys",
+    "keiningham-et-al-loyalty-myths-2005"
+   ],
+   "folgen": [
+    3,
+    29,
+    7
+   ],
+   "verwandt": [
+    "double-jeopardy",
+    "light-buyers",
+    "neukunden-vs-bestandskunden"
+   ],
+   "url": "https://marketing-facts.de/glossar/penetration/"
+  },
+  {
+   "id": "personalisierung",
+   "begriff": "Personalisierung",
+   "en": "Personalization",
+   "kurz": "Anpassung von Werbung, Angeboten oder Inhalten an einzelne Personen auf Basis von Daten.",
+   "text": "Experimente zeigen messbare, aber meist kleinere Effekte als die Werbeversprechen nahelegen. Wirkung hängt stark vom Vertrauen in den Absender ab: Bei bekannten Händlern steigern personalisierte Banner die Klickrate, bei unbekannten können sie abschrecken. Relative Steigerungen wie „31 % mehr“ klingen oft größer, als sie in absoluten Zahlen sind.",
+   "verwechslung": "Relative Steigerung (z. B. +31 %) ist nicht absolute Wirkung: Von 1 % auf 1,31 % Klickrate sind 0,31 Prozentpunkte.",
+   "studien": [
+    "bleier-eisenbeiss-vertrauen-personalisierung-2015",
+    "sahni-wheeler-chintagunta-email-2018",
+    "mckinsey-value-of-personalization-2021",
+    "nobile-cantoni-personalisierung-2023"
+   ],
+   "folgen": [
+    8
+   ],
+   "verwandt": [
+    "targeting-genauigkeit",
+    "retargeting"
+   ],
+   "url": "https://marketing-facts.de/glossar/personalisierung/"
+  },
+  {
+   "id": "physische-verfuegbarkeit",
+   "begriff": "Physische Verfügbarkeit",
+   "en": "Physical Availability",
+   "kurz": "Wie leicht eine Marke dort zu finden und zu kaufen ist, wo Käufer suchen.",
+   "text": "Physische Verfügbarkeit umfasst Distribution, Regalpräsenz, Auffindbarkeit online und Lieferfähigkeit. Zusammen mit der mentalen Verfügbarkeit erklärt sie nach der Ehrenberg-Bass-Schule einen großen Teil der Unterschiede im Marktanteil. In Zeiten von KI-Assistenten gehört zunehmend auch die Auffindbarkeit in deren Antworten dazu.",
+   "verwechslung": "",
+   "studien": [],
+   "folgen": [
+    9
+   ],
+   "verwandt": [
+    "mental-availability",
+    "agentic-commerce"
+   ],
+   "url": "https://marketing-facts.de/glossar/physische-verfuegbarkeit/"
+  },
+  {
+   "id": "preiselastizitaet",
+   "begriff": "Preiselastizität",
+   "en": "Price Elasticity",
+   "kurz": "Wie stark die Nachfrage auf Preisänderungen reagiert.",
+   "text": "Meta-Analysen finden für Konsumgüter typische Preiselastizitäten um −2,5: Eine Preissenkung um 1 % steigert den Absatz um etwa 2,5 %. Werbung reagiert im Vergleich deutlich schwächer, ihre Elastizität liegt im Schnitt bei etwa 0,1.",
+   "verwechslung": "",
+   "studien": [
+    "bijmolt-van-heerde-pieters-price-elasticity-2005",
+    "sethuraman-tellis-briesch-advertising-elasticities-2011"
+   ],
+   "folgen": [
+    24,
+    25
+   ],
+   "verwandt": [
+    "rabattaktionen",
+    "werbeelastizitaet"
+   ],
+   "url": "https://marketing-facts.de/glossar/preiselastizitaet/"
+  },
+  {
+   "id": "preispsychologie",
+   "begriff": "Preispsychologie",
+   "en": "Price Psychology, Behavioral Pricing",
+   "kurz": "Wie die Darstellung eines Preises dessen Wahrnehmung beeinflusst.",
+   "text": "Bekannte Effekte sind Schwellenpreise (9,99 €), Ankerpreise und Köderangebote. Einige Effekte sind gut repliziert, andere wie manche Köder-Effekte fallen in Wiederholungen kleiner aus als in den Originalstudien.",
+   "verwechslung": "",
+   "studien": [
+    "strulov-shlain-left-digit-bias-2023",
+    "ariely-economist-decoy-2008",
+    "escher-et-al-precise-price-endings-2026"
+   ],
+   "folgen": [
+    25
+   ],
+   "verwandt": [
+    "anchoring",
+    "decoy-effekt",
+    "referenzpreis"
+   ],
+   "url": "https://marketing-facts.de/glossar/preispsychologie/"
+  },
+  {
+   "id": "programmatic",
+   "begriff": "Programmatic Advertising",
+   "en": "Programmatic Advertising",
+   "kurz": "Automatisierter Ein- und Verkauf von Werbeplätzen über Plattformen und Auktionen.",
+   "text": "Programmatische Werbung ermöglicht Targeting in Echtzeit, bringt aber eine lange Kette von Zwischenhändlern mit sich. Untersuchungen wie die ISBA/PwC-Studie fanden, dass nur rund die Hälfte des Budgets bei den Medien ankommt und ein Teil gar nicht nachverfolgbar ist.",
+   "verwechslung": "",
+   "studien": [],
+   "folgen": [
+    5
+   ],
+   "verwandt": [
+    "ad-fraud",
+    "viewability"
+   ],
+   "url": "https://marketing-facts.de/glossar/programmatic/"
+  },
+  {
+   "id": "publication-bias",
+   "begriff": "Publication Bias",
+   "en": "Publication Bias",
+   "kurz": "Studien mit spektakulären Ergebnissen werden eher veröffentlicht als solche ohne Effekt.",
+   "text": "Dadurch überschätzt die veröffentlichte Literatur die Wirkung vieler Maßnahmen. Meta-Analysen versuchen das zu korrigieren; Branchenstudien von Anbietern unterliegen einem ähnlichen Effekt, weil schwache Ergebnisse selten als Pressemitteilung erscheinen.",
+   "verwechslung": "",
+   "studien": [
+    "scheibehenne-greifeneder-todd-choice-overload-2010",
+    "maier-et-al-no-evidence-nudging-2022",
+    "chernev-boeckenholt-goodman-choice-overload-2015",
+    "jachimowicz-et-al-defaults-meta-2019"
+   ],
+   "folgen": [
+    21
+   ],
+   "verwandt": [
+    "replikationskrise",
+    "meta-analyse"
+   ],
+   "url": "https://marketing-facts.de/glossar/publication-bias/"
+  },
+  {
+   "id": "ki-quellenwahl",
+   "begriff": "Quellenwahl von KI-Assistenten",
+   "en": "AI Citation Sources",
+   "kurz": "Welche Webseiten KI-Assistenten in ihren Antworten zitieren und warum.",
+   "text": "Analysen zeigen, dass KI-Antworten überdurchschnittlich oft Plattformen wie Wikipedia, Reddit oder YouTube zitieren und Inhalte bevorzugen, die aktuell, gut strukturiert und von Dritten bestätigt sind. Die Muster unterscheiden sich stark zwischen Modellen.",
+   "verwechslung": "",
+   "studien": [
+    "profound-ai-platform-citation-patterns-2025",
+    "sistrix-ai-citation-drift-2026",
+    "ahrefs-ai-mode-vs-ai-overviews-2025",
+    "semrush-most-cited-domains-ai-2025"
+   ],
+   "folgen": [
+    35,
+    31
+   ],
+   "verwandt": [
+    "geo",
+    "ai-overviews"
+   ],
+   "url": "https://marketing-facts.de/glossar/ki-quellenwahl/"
+  },
+  {
+   "id": "rabattaktionen",
+   "begriff": "Rabattaktionen (Promotions)",
+   "en": "Sales Promotions, Price Promotions",
+   "kurz": "Zeitlich begrenzte Preissenkungen, um den Absatz zu steigern.",
+   "text": "Promotions erhöhen den Absatz kurzfristig stark, vor allem durch Vorratskäufe und Markenwechsler, die danach meist zurückwechseln. Langfristig können häufige Rabatte die Preisbereitschaft senken. Viele Aktionen sind nach Abzug der Kosten unrentabel.",
+   "verwechslung": "",
+   "studien": [
+    "nijs-et-al-category-demand-promotions-2001",
+    "ehrenberg-hammond-goodhardt-promotions-1994",
+    "pauwels-hanssens-siddarth-promotions-2002",
+    "dekimpe-et-al-promotions-manufacturers-retailers-2003"
+   ],
+   "folgen": [
+    24
+   ],
+   "verwandt": [
+    "preiselastizitaet",
+    "referenzpreis"
+   ],
+   "url": "https://marketing-facts.de/glossar/rabattaktionen/"
+  },
+  {
+   "id": "referenzpreis",
+   "begriff": "Referenzpreis",
+   "en": "Reference Price",
+   "kurz": "Preis, mit dem Käufer ein Angebot gedanklich vergleichen.",
+   "text": "Referenzpreise entstehen aus früheren Preisen, Konkurrenzangeboten oder Streichpreisen. Durchgestrichene Preise können Käufe deutlich steigern, weshalb das Recht sie regelt: In der EU muss als Bezug der niedrigste Preis der letzten 30 Tage angegeben werden.",
+   "verwechslung": "",
+   "studien": [
+    "kalyanaram-winer-reference-price-1995"
+   ],
+   "folgen": [
+    25,
+    24,
+    28
+   ],
+   "verwandt": [
+    "anchoring",
+    "preispsychologie"
+   ],
+   "url": "https://marketing-facts.de/glossar/referenzpreis/"
+  },
+  {
+   "id": "reichweite",
+   "begriff": "Reichweite",
+   "en": "Reach",
+   "kurz": "Anzahl oder Anteil der Menschen, die eine Werbung mindestens einmal erreicht.",
+   "text": "Für Markenwachstum gilt Reichweite als wichtiger als hohe Frequenz bei wenigen, weil Wachstum vor allem über neue und gelegentliche Käufer entsteht. Gemessen wird sie je nach Medium sehr unterschiedlich, was Vergleiche schwer macht.",
+   "verwechslung": "",
+   "studien": [
+    "hartnett-et-al-2021-when-brands-go-dark",
+    "romaniuk-dawes-nenycz-thiel-brand-growth-2014"
+   ],
+   "folgen": [
+    3,
+    7,
+    17
+   ],
+   "verwandt": [
+    "frequenz",
+    "penetration"
+   ],
+   "url": "https://marketing-facts.de/glossar/reichweite/"
+  },
+  {
+   "id": "replikationskrise",
+   "begriff": "Replikationskrise",
+   "en": "Replication Crisis",
+   "kurz": "Viele bekannte Studienergebnisse ließen sich in Wiederholungen nicht bestätigen.",
+   "text": "Groß angelegte Wiederholungsprojekte in Psychologie und Verhaltensökonomie fanden für einen großen Teil der Effekte deutlich kleinere oder gar keine Wirkung. Im Marketing betrifft das unter anderem Nudging, Priming und manche Preispsychologie. Für den MFK-Score ist Replikation deshalb mit 25 % gewichtet.",
+   "verwechslung": "",
+   "studien": [
+    "klein-many-labs-1-2014",
+    "hagger-et-al-ego-depletion-2016",
+    "kristal-et-al-signing-first-replication-2020",
+    "hubbard-armstrong-replications-marketing-1994"
+   ],
+   "folgen": [
+    21,
+    25
+   ],
+   "verwandt": [
+    "publication-bias",
+    "mfk-score"
+   ],
+   "url": "https://marketing-facts.de/glossar/replikationskrise/"
+  },
+  {
+   "id": "retail-media",
+   "begriff": "Retail Media",
+   "en": "Retail Media, Retail Media Networks",
+   "kurz": "Werbung auf den Plattformen und mit den Kundendaten von Händlern, etwa Amazon oder REWE.",
+   "text": "Retail Media wächst schnell, weil Händler Werbung nah am Kaufabschluss und mit eigenen Kaufdaten verkaufen. Die gemeldeten Erfolge stammen meist aus den Messungen der Händler selbst, was unabhängige Bewertung schwierig macht.",
+   "verwechslung": "",
+   "studien": [
+    "yu-2025-welfare-sponsored-product-advertising",
+    "skai-state-of-retail-media-2026",
+    "omnicom-media-group-latecast-2025",
+    "wpp-media-this-year-next-year-midyear-2026"
+   ],
+   "folgen": [
+    20
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "closed-loop"
+   ],
+   "url": "https://marketing-facts.de/glossar/retail-media/"
+  },
+  {
+   "id": "retargeting",
+   "begriff": "Retargeting",
+   "en": "Retargeting, Remarketing",
+   "kurz": "Erneutes Ansprechen von Personen, die schon Kontakt mit einer Marke oder Webseite hatten.",
+   "text": "Retargeting zeigt in Attributionsberichten oft hohe Erfolgswerte, weil es Menschen erreicht, die ohnehin kaufen wollten. Experimente mit Kontrollgruppen finden meist deutlich kleinere zusätzliche Effekte.",
+   "verwechslung": "",
+   "studien": [
+    "lambrecht-tucker-retargeting-2013",
+    "johnson-lewis-nubbemeyer-ghost-ads-2017"
+   ],
+   "folgen": [
+    8,
+    10
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "attribution"
+   ],
+   "url": "https://marketing-facts.de/glossar/retargeting/"
+  },
+  {
+   "id": "roi-roas",
+   "begriff": "ROI und ROAS",
+   "en": "Return on Investment, Return on Ad Spend",
+   "kurz": "ROI misst Gewinn pro eingesetztem Euro, ROAS Umsatz pro Werbeeuro.",
+   "text": "ROAS (Return on Ad Spend) ist leicht zu messen, sagt aber nichts über Marge und Zusatzwirkung. Ein hoher ROAS kann entstehen, wenn Werbung vor allem Käufe begleitet, die ohnehin stattgefunden hätten. Für Entscheidungen braucht es inkrementelle Werte.",
+   "verwechslung": "Ein ROAS von 4 heißt nicht, dass die Werbung profitabel ist – Marge und Inkrementalität fehlen in der Rechnung.",
+   "studien": [
+    "thinkbox-profit-ability-2-2024",
+    "blake-nosko-tadelis-ebay-2014",
+    "litmus-state-of-email-2025"
+   ],
+   "folgen": [
+    10,
+    36
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "attribution"
+   ],
+   "url": "https://marketing-facts.de/glossar/roi-roas/"
+  },
+  {
+   "id": "selbstselektion",
+   "begriff": "Selbstselektion",
+   "en": "Self-Selection Bias",
+   "kurz": "Verzerrung, weil Menschen sich selbst für eine Maßnahme entscheiden und sich dadurch von anderen unterscheiden.",
+   "text": "Wer einem Bonusprogramm beitritt oder einen Newsletter abonniert, kauft meist ohnehin mehr. Vergleicht man Teilnehmer naiv mit Nichtteilnehmern, wird der Effekt der Maßnahme überschätzt. Abhilfe schaffen Zufallsexperimente oder statistische Korrekturen.",
+   "verwechslung": "",
+   "studien": [
+    "leenheer-van-heerde-bijmolt-smidts-2007-self-selection",
+    "allcott-site-selection-bias-2015",
+    "chen-evanschitzky-blut-2026-loyalty-program-meta-analysis"
+   ],
+   "folgen": [
+    18,
+    36
+   ],
+   "verwandt": [
+    "loyalitaetsprogramme",
+    "holdout"
+   ],
+   "url": "https://marketing-facts.de/glossar/selbstselektion/"
+  },
+  {
+   "id": "share-of-model",
+   "begriff": "Share of Model",
+   "en": "Share of Model, AI Visibility",
+   "kurz": "Wie oft und wie positiv eine Marke in Antworten von KI-Sprachmodellen vorkommt.",
+   "text": "Share of Model überträgt Share of Voice und Share of Search auf KI-Assistenten. Messungen schwanken stark mit Formulierung, Modell und Zeitpunkt; einzelne Abfragen sind deshalb kaum aussagekräftig. Seriöse Messung braucht viele Wiederholungen.",
+   "verwechslung": "",
+   "studien": [
+    "ahrefs-ai-brand-visibility-correlations-2025",
+    "seer-brand-awareness-llm-visibility-2025",
+    "sparktoro-gumshoe-ai-brand-recommendations-2026",
+    "martinez-measuring-geo-visibility-prompt-corpora-2026"
+   ],
+   "folgen": [
+    15,
+    37
+   ],
+   "verwandt": [
+    "geo",
+    "share-of-search"
+   ],
+   "url": "https://marketing-facts.de/glossar/share-of-model/"
+  },
+  {
+   "id": "share-of-search",
+   "begriff": "Share of Search",
+   "en": "Share of Search",
+   "kurz": "Anteil der Suchanfragen nach einer Marke an allen Markensuchen ihrer Kategorie.",
+   "text": "Les Binet zeigte, dass der Share of Search in mehreren Kategorien dem Marktanteil vorausläuft, bei Autos um bis zu ein Jahr. Die Kennzahl ist kostenlos über Google Trends verfügbar, funktioniert aber in Kategorien mit wenig Markensuche schlecht.",
+   "verwechslung": "Kein Ersatz für Marktforschung: Werbung, Nachrichten oder Krisen treiben Suchen auch ohne Kaufabsicht.",
+   "studien": [
+    "binet-share-of-search-2020",
+    "ipa-share-of-search-think-tank-2021",
+    "ryberg-share-of-search-grenzen-2023",
+    "kantar-share-of-search-2025"
+   ],
+   "folgen": [
+    6
+   ],
+   "verwandt": [
+    "share-of-voice",
+    "share-of-model"
+   ],
+   "url": "https://marketing-facts.de/glossar/share-of-search/"
+  },
+  {
+   "id": "share-of-voice",
+   "begriff": "Share of Voice (SOV)",
+   "en": "Share of Voice",
+   "kurz": "Anteil einer Marke an den gesamten Werbeausgaben oder -kontakten ihrer Kategorie.",
+   "text": "Der Share of Voice wird meist mit dem Marktanteil verglichen. Liegt er darüber (Excess Share of Voice), wachsen Marken im Schnitt eher, liegt er darunter, schrumpfen sie eher. Der Zusammenhang ist ein Durchschnitt über viele Marken, keine Garantie im Einzelfall.",
+   "verwechslung": "",
+   "studien": [
+    "jones-1990-ad-spending-maintaining-market-share",
+    "nielsen-2009-share-of-voice-upturn"
+   ],
+   "folgen": [
+    6,
+    17
+   ],
+   "verwandt": [
+    "esov",
+    "share-of-search",
+    "share-of-market"
+   ],
+   "url": "https://marketing-facts.de/glossar/share-of-voice/"
+  },
+  {
+   "id": "social-commerce",
+   "begriff": "Social Commerce",
+   "en": "Social Commerce, Live Shopping",
+   "kurz": "Kaufen direkt in sozialen Netzwerken, etwa über TikTok Shop oder Instagram.",
+   "text": "Social Commerce verbindet Unterhaltung und Kauf ohne Wechsel auf eine Händlerseite. In Asien ist das Modell verbreitet, in Europa wächst es vor allem über TikTok Shop. Belastbare unabhängige Zahlen zu Margen und Retouren sind bisher selten.",
+   "verwechslung": "",
+   "studien": [
+    "nim-tiktok-shop-kurzstudie-2025",
+    "vzbv-tiktok-shop-stichprobe-2025",
+    "ifh-kpmg-consumer-barometer-social-commerce-2024",
+    "momentum-works-tiktok-shop-us-gmv-2026"
+   ],
+   "folgen": [
+    23
+   ],
+   "verwandt": [
+    "influencer-marketing"
+   ],
+   "url": "https://marketing-facts.de/glossar/social-commerce/"
+  },
+  {
+   "id": "social-proof",
+   "begriff": "Social Proof",
+   "en": "Social Proof",
+   "kurz": "Menschen orientieren sich am Verhalten und Urteil anderer.",
+   "text": "Hinweise wie „Bestseller“, Bewertungen oder „1.000 Menschen haben das gekauft“ nutzen diesen Effekt. In Feldexperimenten wirkt er belegt, etwa bei Steuerbriefen und Energiesparen; im Marketing hängt die Stärke von Glaubwürdigkeit und Kontext ab.",
+   "verwechslung": "",
+   "studien": [
+    "allcott-opower-social-norms-2011",
+    "goldstein-cialdini-griskevicius-hotel-handtuecher-2008",
+    "bohner-schlueter-handtuch-replikation-2014",
+    "thinkbox-adnormal-behaviour-2022"
+   ],
+   "folgen": [
+    34,
+    25
+   ],
+   "verwandt": [
+    "online-bewertungen",
+    "nudging"
+   ],
+   "url": "https://marketing-facts.de/glossar/social-proof/"
+  },
+  {
+   "id": "sonic-branding",
+   "begriff": "Sonic Branding",
+   "en": "Sonic Branding, Audio Branding, Sound-Logo",
+   "kurz": "Akustische Markenelemente wie Jingles, Sound-Logos oder Markenstimmen.",
+   "text": "Klänge können als Distinctive Asset wirken, wenn sie konsistent und lange genug eingesetzt werden. Die Befundlage zur Wirkung stammt zu großen Teilen von Anbietern und Agenturen, unabhängige Feldstudien sind seltener. Entscheidend ist wie bei visuellen Assets die eindeutige Zuordnung zur Marke.",
+   "verwechslung": "",
+   "studien": [
+    "roschk-loureiro-breitsohl-background-music-meta-2017",
+    "hume-dodd-grigg-instore-wine-music-2003",
+    "silas-sound-logo-melody-memory-2026",
+    "krishnan-kellaris-aurand-sonic-logos-2012"
+   ],
+   "folgen": [
+    40
+   ],
+   "verwandt": [
+    "distinctive-brand-assets"
+   ],
+   "url": "https://marketing-facts.de/glossar/sonic-branding/"
+  },
+  {
+   "id": "strukturierte-daten",
+   "begriff": "Strukturierte Daten",
+   "en": "Structured Data, Schema.org",
+   "kurz": "Maschinenlesbare Zusatzinformationen im Code einer Webseite, meist nach schema.org.",
+   "text": "Strukturierte Daten beschreiben etwa Produkte, Bewertungen oder Artikel in einem einheitlichen Format. Suchmaschinen nutzen sie für erweiterte Ergebnisse; ob und wie stark sie die Sichtbarkeit in KI-Antworten erhöhen, ist bisher wenig untersucht.",
+   "verwechslung": "",
+   "studien": [
+    "ahrefs-schema-ai-citations-2026",
+    "williams-cook-fake-schema-test-2026"
+   ],
+   "folgen": [
+    39
+   ],
+   "verwandt": [
+    "llms-txt",
+    "geo"
+   ],
+   "url": "https://marketing-facts.de/glossar/strukturierte-daten/"
+  },
+  {
+   "id": "search-performance",
+   "begriff": "Suchmaschinenwerbung (SEA)",
+   "en": "Search Engine Advertising, Paid Search",
+   "kurz": "Bezahlte Anzeigen in Suchmaschinen, die zu Suchbegriffen ausgespielt werden.",
+   "text": "Suchanzeigen erreichen Menschen mit konkretem Bedarf und zeigen deshalb hohe Erfolgswerte in der Attribution. Experimente zeigen, dass vor allem Anzeigen auf Markenbegriffe wenig zusätzlich bewirken, generische Begriffe dagegen mehr.",
+   "verwechslung": "",
+   "studien": [
+    "blake-nosko-tadelis-ebay-2014",
+    "dinner-van-heerde-neslin-2014-cross-channel",
+    "sparktoro-similarweb-zero-click-2026",
+    "sparktoro-datos-zero-click-2024"
+   ],
+   "folgen": [
+    10,
+    12
+   ],
+   "verwandt": [
+    "brand-search",
+    "zero-click"
+   ],
+   "url": "https://marketing-facts.de/glossar/search-performance/"
+  },
+  {
+   "id": "synthetische-personas",
+   "begriff": "Synthetische Personas",
+   "en": "Synthetic Personas, Synthetic Respondents, Silicon Samples",
+   "kurz": "Von KI-Sprachmodellen simulierte Befragte, die Marktforschung ersetzen oder ergänzen sollen.",
+   "text": "Studien zeigen, dass Sprachmodelle Durchschnittsantworten mancher Umfragen gut treffen, aber Streuung, Minderheiten und neue Themen schlecht abbilden. Als Ideengeber sind sie nützlich, als Ersatz für echte Befragungen bisher nicht belegt.",
+   "verwechslung": "",
+   "studien": [
+    "chen-zhu-zheng-synthetic-users-fail-2026",
+    "sarstedt-et-al-next-respondent-llm-2026",
+    "bisbee-et-al-synthetic-replacements-2024",
+    "kantar-synthetic-sample-test-2023"
+   ],
+   "folgen": [
+    26
+   ],
+   "verwandt": [
+    "marktforschung-umfragen"
+   ],
+   "url": "https://marketing-facts.de/glossar/synthetische-personas/"
+  },
+  {
+   "id": "targeting-genauigkeit",
+   "begriff": "Targeting-Genauigkeit",
+   "en": "Targeting Accuracy",
+   "kurz": "Wie oft datenbasierte Zielgruppenmerkmale bei Werbeplattformen tatsächlich zutreffen.",
+   "text": "Studien zu Drittanbieter-Daten fanden, dass Merkmale wie Geschlecht oder Alter oft nur wenig besser als zufällig getroffen werden. Präzises Targeting kostet zudem Aufpreise, die den Nutzen häufig auffressen.",
+   "verwechslung": "",
+   "studien": [
+    "neumann-tucker-whitfield-profiling-2019",
+    "eckles-gordon-johnson-2018-psychological-targeting-kritik",
+    "lambrecht-tucker-retargeting-2013"
+   ],
+   "folgen": [
+    7,
+    8
+   ],
+   "verwandt": [
+    "kreation-vs-targeting",
+    "personalisierung"
+   ],
+   "url": "https://marketing-facts.de/glossar/targeting-genauigkeit/"
+  },
+  {
+   "id": "marktforschung-umfragen",
+   "begriff": "Umfragen in der Marktforschung",
+   "en": "Survey Research",
+   "kurz": "Befragungen, um Einstellungen, Absichten und Verhalten zu erfassen.",
+   "text": "Umfragen messen, was Menschen sagen, nicht unbedingt, was sie tun. Kaufabsichten überschätzen tatsächliche Käufe regelmäßig. Branchenumfragen unter Marketern spiegeln zudem oft die Sicht der Branche, nicht die der Kunden.",
+   "verwechslung": "",
+   "studien": [
+    "bisbee-et-al-synthetic-replacements-2024",
+    "gartner-b2b-buyer-survey-2024-erhebung",
+    "chen-zhu-zheng-synthetic-users-fail-2026",
+    "ey-aaru-ai-simulation-wealth-2025"
+   ],
+   "folgen": [
+    11,
+    26
+   ],
+   "verwandt": [
+    "synthetische-personas",
+    "marketer-bubble"
+   ],
+   "url": "https://marketing-facts.de/glossar/marktforschung-umfragen/"
+  },
+  {
+   "id": "uplift-modeling",
+   "begriff": "Uplift-Modellierung",
+   "en": "Uplift Modeling",
+   "kurz": "Vorhersage, bei wem eine Maßnahme zusätzlich wirkt – statt nur, wer reagieren wird.",
+   "text": "Klassische Modelle zielen auf Kunden mit hoher Kaufwahrscheinlichkeit, die oft auch ohne Maßnahme gekauft hätten. Uplift-Modelle schätzen den Unterschied zwischen mit und ohne Maßnahme und sparen so Budget.",
+   "verwechslung": "",
+   "studien": [
+    "ascarza-retention-futility-2018",
+    "johnson-lewis-reiley-add-more-ads-2013"
+   ],
+   "folgen": [
+    36
+   ],
+   "verwandt": [
+    "inkrementalitaet",
+    "churn",
+    "holdout"
+   ],
+   "url": "https://marketing-facts.de/glossar/uplift-modeling/"
+  },
+  {
+   "id": "viewability",
+   "begriff": "Viewability (Sichtbarkeit)",
+   "en": "Viewability",
+   "kurz": "Branchenstandard, ob eine Online-Anzeige technisch im sichtbaren Bildschirmbereich war.",
+   "text": "Nach dem Standard von IAB und MRC gilt eine Display-Anzeige als sichtbar, wenn mindestens 50 % ihrer Fläche eine Sekunde lang im Bild sind, bei Video zwei Sekunden. Der Standard sagt nichts darüber, ob jemand die Anzeige wahrgenommen hat.",
+   "verwechslung": "",
+   "studien": [],
+   "folgen": [
+    5
+   ],
+   "verwandt": [
+    "aufmerksamkeit-werbung",
+    "ad-fraud"
+   ],
+   "url": "https://marketing-facts.de/glossar/viewability/"
+  },
+  {
+   "id": "wear-out",
+   "begriff": "Wear-out (Werbeabnutzung)",
+   "en": "Wear-out, Ad Fatigue",
+   "kurz": "Nachlassende Wirkung einer Kampagne, weil Menschen sie zu oft gesehen haben.",
+   "text": "Werbung nutzt sich ab, aber meist langsamer, als Werbetreibende glauben: Marketer werden der eigenen Kampagne früher überdrüssig als das Publikum. Studien von System1 und anderen zeigen, dass starke Kampagnen über Jahre wirken können.",
+   "verwechslung": "",
+   "studien": [
+    "pechmann-stewart-wearin-wearout-review-1988",
+    "chae-bruno-feinberg-wearout-or-weariness-2019",
+    "kantar-wear-in-debate-2024",
+    "blair-advertising-wearin-wearout-1988"
+   ],
+   "folgen": [
+    38
+   ],
+   "verwandt": [
+    "frequenz",
+    "carryover"
+   ],
+   "url": "https://marketing-facts.de/glossar/wear-out/"
+  },
+  {
+   "id": "ad-fraud",
+   "begriff": "Werbebetrug (Ad Fraud)",
+   "en": "Ad Fraud, Invalid Traffic",
+   "kurz": "Bezahlte Werbekontakte, die nie ein Mensch gesehen hat – etwa durch Bots oder versteckte Anzeigen.",
+   "text": "Werbebetrug reicht von Bot-Traffic über gefälschte Webseiten bis zu gestapelten, unsichtbaren Anzeigen. Schätzungen zum Umfang gehen weit auseinander und stammen häufig von Anbietern von Prüfdiensten.",
+   "verwechslung": "",
+   "studien": [],
+   "folgen": [
+    5
+   ],
+   "verwandt": [
+    "viewability",
+    "programmatic"
+   ],
+   "url": "https://marketing-facts.de/glossar/ad-fraud/"
+  },
+  {
+   "id": "werbeelastizitaet",
+   "begriff": "Werbeelastizität",
+   "en": "Advertising Elasticity",
+   "kurz": "Prozentuale Absatzänderung bei 1 % mehr Werbeausgaben.",
+   "text": "Meta-Analysen finden im Schnitt kurzfristige Werbeelastizitäten von rund 0,1, langfristig etwas mehr. Das heißt: Werbung wirkt, aber in kleineren Schritten als oft angenommen, und braucht Zeit.",
+   "verwechslung": "",
+   "studien": [
+    "sethuraman-tellis-briesch-advertising-elasticities-2011",
+    "hu-lodish-krieger-tv-tests-2007"
+   ],
+   "folgen": [
+    32,
+    17
+   ],
+   "verwandt": [
+    "preiselastizitaet",
+    "carryover"
+   ],
+   "url": "https://marketing-facts.de/glossar/werbeelastizitaet/"
+  },
+  {
+   "id": "zero-click",
+   "begriff": "Zero-Click-Suche",
+   "en": "Zero-Click Search",
+   "kurz": "Suchanfragen, nach denen Nutzer auf kein Ergebnis klicken, weil die Antwort schon auf der Suchseite steht.",
+   "text": "Mit Featured Snippets und KI-Übersichten beantwortet Google immer mehr Fragen direkt. Studien finden deutlich sinkende Klickraten auf organische Ergebnisse, wenn eine KI-Übersicht erscheint. Die Höhe der Anteile hängt stark von Methode und Datenquelle ab.",
+   "verwechslung": "",
+   "studien": [
+    "ahrefs-ai-overviews-ctr-2026",
+    "seer-aio-impact-ctr-2025",
+    "amsive-ai-overviews-brand-2025",
+    "sistrix-ai-overviews-deutschland-2026"
+   ],
+   "folgen": [
+    12
+   ],
+   "verwandt": [
+    "ai-overviews",
+    "geo"
+   ],
+   "url": "https://marketing-facts.de/glossar/zero-click/"
+  }
+ ]
+}

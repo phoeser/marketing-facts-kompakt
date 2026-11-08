@@ -419,3 +419,98 @@ Hinweise zum Zitieren: Der MFK-Score bewertet die Belastbarkeit der Studie, nich
 - [Influencer Marketing Hub: der „5,78 $-ROI“](https://marketing-facts.de/studien/influencer-marketing-hub-benchmark-2020/): Score 1.8, widerlegt. Die oft als ROI zitierte Zahl von 5,78 $ je eingesetztem Dollar ist im Original ein Earned Media Value aus einer Branchenbefragung, also bewertete Reichweite und Interaktion, kein Umsatz.
 - [„Unterschrift oben“: zurückgezogene Ehrlichkeits-Studie](https://marketing-facts.de/studien/shu-et-al-signing-at-beginning-2012/): Score 1.8, widerlegt. Die Studie behauptete, eine Unterschrift am Anfang eines Formulars senke Falschangaben. Sie wurde 2021 zurückgezogen, nachdem Data Colada starke Hinweise auf gefälschte Daten in der Feldstudie vorgelegt hatte; eine große Replikation fand keinen Effekt.
 - [Ursprung des NPS: „Die eine Zahl“](https://marketing-facts.de/studien/reichheld-one-number-you-need-to-grow-2003/): Score 1.6, widerlegt. Reichheld stellte die Weiterempfehlungsfrage als die eine Kennzahl für Wachstum vor; in den meisten untersuchten Branchen korreliere der Anteil begeisterter Weiterempfehler mit dem Wachstum gegenüber Wettbewerbern. Spätere Studien bestätigen die behauptete Überlegenheit nicht.
+
+## Glossar
+
+- [60/40-Regel](https://marketing-facts.de/glossar/60-40-regel/): Faustregel, nach der rund 60 % des Budgets in Markenaufbau und 40 % in Aktivierung fließen sollten.
+- [80/20-Regel im Marketing](https://marketing-facts.de/glossar/pareto-80-20/): Die Behauptung, 20 % der Kunden brächten 80 % des Umsatzes – in Kaufdaten meist eher 50 bis 60 %.
+- [95:5-Regel](https://marketing-facts.de/glossar/95-5-regel/): Annahme aus dem B2B-Marketing, dass nur rund 5 % der potenziellen Kunden gerade kaufbereit sind.
+- [Adstock](https://marketing-facts.de/glossar/adstock/): Rechengröße im Marketing-Mix-Modell, die abbildet, wie Werbewirkung über die Zeit abklingt.
+- [Agentic Commerce](https://marketing-facts.de/glossar/agentic-commerce/): Einkaufen, bei dem KI-Agenten Produkte im Auftrag von Menschen suchen, vergleichen und bestellen.
+- [Ankereffekt](https://marketing-facts.de/glossar/anchoring/): Eine zuerst genannte Zahl beeinflusst nachfolgende Schätzungen und Zahlungsbereitschaft.
+- [Attribution](https://marketing-facts.de/glossar/attribution/): Zuordnung eines Kaufs oder Leads zu den Werbekontakten, die ihm vorausgingen.
+- [Aufmerksamkeit (Attention)](https://marketing-facts.de/glossar/aufmerksamkeit-werbung/): Wie lange und wie aktiv Menschen eine Anzeige tatsächlich anschauen.
+- [Branding in der Werbung](https://marketing-facts.de/glossar/branding-werbung/): Wie klar erkennbar ist, von welcher Marke eine Werbung stammt.
+- [Buying Group (B2B-Einkaufsgremium)](https://marketing-facts.de/glossar/b2b-buying-group/): Die Gruppe von Personen, die in Unternehmen gemeinsam über einen Kauf entscheidet.
+- [Carryover-Effekt](https://marketing-facts.de/glossar/carryover/): Werbewirkung, die erst nach dem Werbezeitraum eintritt oder nachhallt.
+- [Category Entry Points (CEPs)](https://marketing-facts.de/glossar/category-entry-points/): Situationen, Bedürfnisse und Anlässe, in denen Käufer an eine Kategorie denken.
+- [ChatGPT Ads](https://marketing-facts.de/glossar/chatgpt-ads/): Werbeanzeigen in ChatGPT, die OpenAI 2026 eingeführt hat.
+- [Churn (Abwanderung)](https://marketing-facts.de/glossar/churn/): Anteil der Kunden, die in einem Zeitraum kündigen oder nicht mehr kaufen.
+- [Closed-Loop-Messung](https://marketing-facts.de/glossar/closed-loop/): Messung, bei der Werbekontakt und Kauf in denselben Daten verbunden sind.
+- [Customer Lifetime Value (CLV)](https://marketing-facts.de/glossar/customer-lifetime-value/): Erwarteter Gesamtwert eines Kunden über die gesamte Kundenbeziehung.
+- [Dark Patterns](https://marketing-facts.de/glossar/dark-patterns/): Gestaltungstricks, die Nutzer zu Entscheidungen drängen, die sie sonst nicht treffen würden.
+- [Digital Fairness Act](https://marketing-facts.de/glossar/digital-fairness-act/): Geplantes EU-Gesetz für faireren Verbraucherschutz im Onlinehandel.
+- [Distinctive Brand Assets](https://marketing-facts.de/glossar/distinctive-brand-assets/): Unverwechselbare Markenelemente wie Farbe, Form, Logo, Figur oder Klang, die ohne Markennamen auf die Marke verweisen.
+- [Double Jeopardy](https://marketing-facts.de/glossar/double-jeopardy/): Kleine Marken haben weniger Käufer – und diese Käufer sind ihnen auch noch etwas weniger treu.
+- [Drittanbieter-Cookies](https://marketing-facts.de/glossar/third-party-cookies/): Cookies, die von anderen Domains als der besuchten Seite gesetzt werden, etwa für Werbetracking.
+- [E-Mail-ROI](https://marketing-facts.de/glossar/e-mail-roi/): Rendite von E-Mail-Marketing, oft mit 36 oder 42 Euro pro eingesetztem Euro angegeben.
+- [Ehrenberg-Bass-Institut](https://marketing-facts.de/glossar/ehrenberg-bass/): Forschungsinstitut an der University of South Australia, bekannt für empirische Gesetzmäßigkeiten des Kaufverhaltens.
+- [Einwilligung (Consent)](https://marketing-facts.de/glossar/consent/): Zustimmung von Nutzern zur Verarbeitung ihrer Daten, etwa über Cookie-Banner.
+- [Emotionale Werbung](https://marketing-facts.de/glossar/emotionale-werbung/): Werbung, die über Gefühle statt über Argumente wirkt.
+- [Engagement-Rate](https://marketing-facts.de/glossar/engagement-rate/): Anteil der Interaktionen (Likes, Kommentare, Teilen) an Reichweite oder Followern.
+- [Excess Share of Voice (ESOV)](https://marketing-facts.de/glossar/esov/): Differenz zwischen Share of Voice und Marktanteil – positiv heißt: mehr Werbedruck als Marktanteil.
+- [Gelegenheitskäufer](https://marketing-facts.de/glossar/light-buyers/): Käufer, die eine Marke nur selten kaufen – sie machen bei den meisten Marken die Mehrheit aus.
+- [Generative Engine Advertising (GEA)](https://marketing-facts.de/glossar/gea/): Werbung in oder neben Antworten von KI-Assistenten.
+- [Generative Engine Optimization (GEO)](https://marketing-facts.de/glossar/geo/): Maßnahmen, damit Inhalte in Antworten von KI-Assistenten wie ChatGPT oder Perplexity auftauchen.
+- [Geo-Experiment](https://marketing-facts.de/glossar/geo-experiment/): Test, bei dem Werbung nur in ausgewählten Regionen läuft und mit Vergleichsregionen verglichen wird.
+- [GEO-Messung](https://marketing-facts.de/glossar/geo-messung/): Methoden, um die Sichtbarkeit einer Marke in KI-Antworten zu erfassen.
+- [Holdout-Gruppe](https://marketing-facts.de/glossar/holdout/): Zufällig ausgewählte Gruppe, die eine Maßnahme bewusst nicht bekommt – als Vergleich.
+- [Influencer-Marketing](https://marketing-facts.de/glossar/influencer-marketing/): Werbung über Personen mit eigener Reichweite in sozialen Medien.
+- [Inkrementalität](https://marketing-facts.de/glossar/inkrementalitaet/): Der zusätzliche Effekt, der ohne die Werbung nicht eingetreten wäre.
+- [IPA Databank](https://marketing-facts.de/glossar/ipa-databank/): Sammlung von Wirksamkeitsfallstudien aus den IPA Effectiveness Awards in Großbritannien.
+- [Kennzeichnung von Werbung](https://marketing-facts.de/glossar/kennzeichnung-werbung/): Pflicht, Werbung und bezahlte Inhalte als solche erkennbar zu machen.
+- [KI-generierte Werbung](https://marketing-facts.de/glossar/ki-werbung/): Werbemittel, die ganz oder teilweise mit generativer KI erstellt werden.
+- [KI-Übersichten (AI Overviews)](https://marketing-facts.de/glossar/ai-overviews/): Von KI erzeugte Zusammenfassungen oberhalb der Suchergebnisse bei Google.
+- [Kontaktfrequenz](https://marketing-facts.de/glossar/frequenz/): Wie oft eine Person dieselbe Werbung in einem Zeitraum sieht.
+- [Kreation vs. Targeting](https://marketing-facts.de/glossar/kreation-vs-targeting/): Frage, ob der Werbeerfolg stärker von der Gestaltung oder von der Zielgruppenauswahl abhängt.
+- [Kundenzufriedenheit](https://marketing-facts.de/glossar/kundenzufriedenheit/): Wie zufrieden Kunden mit Produkt, Service und Erlebnis sind.
+- [Köder-Effekt](https://marketing-facts.de/glossar/decoy-effekt/): Ein unattraktives Zusatzangebot lässt ein anderes Angebot besser aussehen.
+- [Last-Click-Attribution](https://marketing-facts.de/glossar/last-click/): Modell, das den gesamten Erfolg dem letzten Klick vor dem Kauf zuschreibt.
+- [llms.txt](https://marketing-facts.de/glossar/llms-txt/): Vorgeschlagene Textdatei, mit der Webseiten KI-Systemen ihre wichtigsten Inhalte strukturiert anbieten.
+- [Loyalitätsprogramme](https://marketing-facts.de/glossar/loyalitaetsprogramme/): Bonusprogramme, Punkte und Kundenkarten, die Wiederkauf belohnen sollen.
+- [Markenaufbau vs. Abverkauf](https://marketing-facts.de/glossar/brand-building-vs-activation/): Unterscheidung zwischen langfristiger Markenwirkung und kurzfristiger Aktivierung von Käufen.
+- [Markensuche (Brand Search)](https://marketing-facts.de/glossar/brand-search/): Suchanzeigen auf den eigenen Markennamen.
+- [Markentreue (Loyalität)](https://marketing-facts.de/glossar/loyalitaet/): Neigung von Kunden, eine Marke wiederholt zu kaufen.
+- [Marketer-Blase](https://marketing-facts.de/glossar/marketer-bubble/): Abweichung zwischen dem, was Marketer über Kunden glauben, und dem, wie Kunden tatsächlich denken.
+- [Marketing-Mix-Modellierung (MMM)](https://marketing-facts.de/glossar/mmm/): Statistisches Verfahren, das den Beitrag einzelner Marketingkanäle zum Absatz aus Zeitreihen schätzt.
+- [Marktanteil (Share of Market)](https://marketing-facts.de/glossar/share-of-market/): Anteil einer Marke am Umsatz oder Absatz ihrer Kategorie.
+- [Mentale Verfügbarkeit](https://marketing-facts.de/glossar/mental-availability/): Wie leicht eine Marke Käufern in einer Kaufsituation in den Sinn kommt.
+- [Meta-Analyse](https://marketing-facts.de/glossar/meta-analyse/): Statistische Zusammenfassung vieler Einzelstudien zu einer Frage.
+- [MFK-Score](https://marketing-facts.de/glossar/mfk-score/): Bewertung der Belastbarkeit einer Studie von 0 bis 10 in der Studiendatenbank von Marketing Facts Kompakt.
+- [Net Promoter Score (NPS)](https://marketing-facts.de/glossar/nps/): Kennzahl aus der Frage, wie wahrscheinlich jemand ein Unternehmen weiterempfehlen würde.
+- [Neukunden vs. Bestandskunden](https://marketing-facts.de/glossar/neukunden-vs-bestandskunden/): Die verbreitete Annahme, Neukundengewinnung sei fünf- bis siebenmal teurer als Kundenbindung.
+- [Nudging](https://marketing-facts.de/glossar/nudging/): Kleine Änderungen der Entscheidungsumgebung, die Verhalten ohne Zwang lenken sollen.
+- [Online-Bewertungen](https://marketing-facts.de/glossar/online-bewertungen/): Sternebewertungen und Rezensionen von Kunden auf Plattformen und Shops.
+- [Penetration (Käuferreichweite)](https://marketing-facts.de/glossar/penetration/): Anteil der Kategoriekäufer, die eine Marke in einem Zeitraum mindestens einmal kaufen.
+- [Personalisierung](https://marketing-facts.de/glossar/personalisierung/): Anpassung von Werbung, Angeboten oder Inhalten an einzelne Personen auf Basis von Daten.
+- [Physische Verfügbarkeit](https://marketing-facts.de/glossar/physische-verfuegbarkeit/): Wie leicht eine Marke dort zu finden und zu kaufen ist, wo Käufer suchen.
+- [Preiselastizität](https://marketing-facts.de/glossar/preiselastizitaet/): Wie stark die Nachfrage auf Preisänderungen reagiert.
+- [Preispsychologie](https://marketing-facts.de/glossar/preispsychologie/): Wie die Darstellung eines Preises dessen Wahrnehmung beeinflusst.
+- [Programmatic Advertising](https://marketing-facts.de/glossar/programmatic/): Automatisierter Ein- und Verkauf von Werbeplätzen über Plattformen und Auktionen.
+- [Publication Bias](https://marketing-facts.de/glossar/publication-bias/): Studien mit spektakulären Ergebnissen werden eher veröffentlicht als solche ohne Effekt.
+- [Quellenwahl von KI-Assistenten](https://marketing-facts.de/glossar/ki-quellenwahl/): Welche Webseiten KI-Assistenten in ihren Antworten zitieren und warum.
+- [Rabattaktionen (Promotions)](https://marketing-facts.de/glossar/rabattaktionen/): Zeitlich begrenzte Preissenkungen, um den Absatz zu steigern.
+- [Referenzpreis](https://marketing-facts.de/glossar/referenzpreis/): Preis, mit dem Käufer ein Angebot gedanklich vergleichen.
+- [Reichweite](https://marketing-facts.de/glossar/reichweite/): Anzahl oder Anteil der Menschen, die eine Werbung mindestens einmal erreicht.
+- [Replikationskrise](https://marketing-facts.de/glossar/replikationskrise/): Viele bekannte Studienergebnisse ließen sich in Wiederholungen nicht bestätigen.
+- [Retail Media](https://marketing-facts.de/glossar/retail-media/): Werbung auf den Plattformen und mit den Kundendaten von Händlern, etwa Amazon oder REWE.
+- [Retargeting](https://marketing-facts.de/glossar/retargeting/): Erneutes Ansprechen von Personen, die schon Kontakt mit einer Marke oder Webseite hatten.
+- [ROI und ROAS](https://marketing-facts.de/glossar/roi-roas/): ROI misst Gewinn pro eingesetztem Euro, ROAS Umsatz pro Werbeeuro.
+- [Selbstselektion](https://marketing-facts.de/glossar/selbstselektion/): Verzerrung, weil Menschen sich selbst für eine Maßnahme entscheiden und sich dadurch von anderen unterscheiden.
+- [Share of Model](https://marketing-facts.de/glossar/share-of-model/): Wie oft und wie positiv eine Marke in Antworten von KI-Sprachmodellen vorkommt.
+- [Share of Search](https://marketing-facts.de/glossar/share-of-search/): Anteil der Suchanfragen nach einer Marke an allen Markensuchen ihrer Kategorie.
+- [Share of Voice (SOV)](https://marketing-facts.de/glossar/share-of-voice/): Anteil einer Marke an den gesamten Werbeausgaben oder -kontakten ihrer Kategorie.
+- [Social Commerce](https://marketing-facts.de/glossar/social-commerce/): Kaufen direkt in sozialen Netzwerken, etwa über TikTok Shop oder Instagram.
+- [Social Proof](https://marketing-facts.de/glossar/social-proof/): Menschen orientieren sich am Verhalten und Urteil anderer.
+- [Sonic Branding](https://marketing-facts.de/glossar/sonic-branding/): Akustische Markenelemente wie Jingles, Sound-Logos oder Markenstimmen.
+- [Strukturierte Daten](https://marketing-facts.de/glossar/strukturierte-daten/): Maschinenlesbare Zusatzinformationen im Code einer Webseite, meist nach schema.org.
+- [Suchmaschinenwerbung (SEA)](https://marketing-facts.de/glossar/search-performance/): Bezahlte Anzeigen in Suchmaschinen, die zu Suchbegriffen ausgespielt werden.
+- [Synthetische Personas](https://marketing-facts.de/glossar/synthetische-personas/): Von KI-Sprachmodellen simulierte Befragte, die Marktforschung ersetzen oder ergänzen sollen.
+- [Targeting-Genauigkeit](https://marketing-facts.de/glossar/targeting-genauigkeit/): Wie oft datenbasierte Zielgruppenmerkmale bei Werbeplattformen tatsächlich zutreffen.
+- [Umfragen in der Marktforschung](https://marketing-facts.de/glossar/marktforschung-umfragen/): Befragungen, um Einstellungen, Absichten und Verhalten zu erfassen.
+- [Uplift-Modellierung](https://marketing-facts.de/glossar/uplift-modeling/): Vorhersage, bei wem eine Maßnahme zusätzlich wirkt – statt nur, wer reagieren wird.
+- [Viewability (Sichtbarkeit)](https://marketing-facts.de/glossar/viewability/): Branchenstandard, ob eine Online-Anzeige technisch im sichtbaren Bildschirmbereich war.
+- [Wear-out (Werbeabnutzung)](https://marketing-facts.de/glossar/wear-out/): Nachlassende Wirkung einer Kampagne, weil Menschen sie zu oft gesehen haben.
+- [Werbebetrug (Ad Fraud)](https://marketing-facts.de/glossar/ad-fraud/): Bezahlte Werbekontakte, die nie ein Mensch gesehen hat – etwa durch Bots oder versteckte Anzeigen.
+- [Werbeelastizität](https://marketing-facts.de/glossar/werbeelastizitaet/): Prozentuale Absatzänderung bei 1 % mehr Werbeausgaben.
+- [Zero-Click-Suche](https://marketing-facts.de/glossar/zero-click/): Suchanfragen, nach denen Nutzer auf kein Ergebnis klicken, weil die Antwort schon auf der Suchseite steht.

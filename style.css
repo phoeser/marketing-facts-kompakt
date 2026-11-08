@@ -75,3 +75,11 @@ footer nav a{color:var(--mute);margin-right:14px}
 .facts dd,.quellen li,.meta{overflow-wrap:anywhere}
 @media (max-width:720px){.sfilter select{flex:1 1 calc(50% - 5px);min-width:0}.st{grid-template-columns:52px 1fr;gap:12px}.sc{width:52px;height:52px}.sc b{font-size:18px}.bar{grid-template-columns:110px 1fr 28px}}
 @media (max-width:460px){.brand span{display:none}nav.links{gap:14px}}
+.az{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 18px}.az a{display:inline-block;min-width:30px;text-align:center;padding:4px 8px;border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--ink);font-size:14px}
+.az a:hover{border-color:var(--teal);color:var(--teal)}
+.gl h2{font-size:22px;margin:26px 0 4px;color:var(--teal)}
+.gt{padding:12px 0;border-top:1px solid var(--line)}.gt h3{margin:0 0 3px;font-size:18px}.gt h3 a{color:var(--ink);text-decoration:none}.gt h3 a:hover{color:var(--teal)}
+.gt p{margin:0;font-size:15px}.gt .en{font-size:13px;color:var(--mute);margin-left:6px;font-weight:400}
+.gbox{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 20px;margin:16px 0}
+.gbox h2{font-size:17px;margin:0 0 8px}.gbox ul{margin:0;padding-left:20px}.gbox li{margin:4px 0}
+.warn{border-left:3px solid #d8b44a}
