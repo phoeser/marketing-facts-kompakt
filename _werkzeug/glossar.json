@@ -78,7 +78,8 @@
   ],
   "studien": [
    "leone-temporal-aggregation-carryover-1995",
-   "shapiro-hitsch-tuchman-tv-288-brands-2021"
+   "shapiro-hitsch-tuchman-tv-288-brands-2021",
+   "jin-et-al-bayes-mmm-2017"
   ]
  },
  {
@@ -316,7 +317,8 @@
    "churn"
   ],
   "studien": [
-   "fader-hardie-lee-counting-customers-bgnbd-2005"
+   "fader-hardie-lee-counting-customers-bgnbd-2005",
+   "kumar-venkatesan-ibm-clv-2008"
   ]
  },
  {
@@ -490,7 +492,8 @@
   "studien": [
    "aridor-che-salz-dsgvo-datenindustrie-2023",
    "johnson-shriver-goldberg-dsgvo-marktkonzentration-2023",
-   "etracker-consent-benchmark-2025"
+   "etracker-consent-benchmark-2025",
+   "nouwens-et-al-dark-patterns-consent-popups-2020"
   ]
  },
  {
@@ -532,7 +535,9 @@
   ],
   "studien": [
    "wies-bleier-edeling-2023-goldilocks-influencers",
-   "feng-et-al-live-interaction-returns-2025"
+   "feng-et-al-live-interaction-returns-2025",
+   "lee-hosanagar-nair-facebook-content-engagement-2018",
+   "yang-zhang-zhang-engagement-that-sells-tiktok-2025"
   ]
  },
  {
@@ -790,7 +795,8 @@
   "studien": [
    "exner-hartmann-netzer-zhang-2025-ai-in-disguise",
    "baek-kim-kim-2024-ai-disclosure-donation-ads",
-   "zhang-gosline-2023-human-favoritism"
+   "zhang-gosline-2023-human-favoritism",
+   "hartmann-exner-domdey-generative-marketing-2025"
   ]
  },
  {
@@ -854,7 +860,8 @@
   ],
   "studien": [
    "nielsen-werbemittel-umsatz-2017",
-   "neumann-tucker-whitfield-profiling-2019"
+   "neumann-tucker-whitfield-profiling-2019",
+   "hackenburg-margetts-llm-microtargeting-2024"
   ]
  },
  {
@@ -996,7 +1003,10 @@
    "inkrementalitaet"
   ],
   "studien": [
-   "blake-nosko-tadelis-ebay-2014"
+   "blake-nosko-tadelis-ebay-2014",
+   "simonov-nosko-rao-brand-keywords-2018",
+   "rutz-bucklin-generic-branded-spillover-2011",
+   "golden-horton-search-ads-wettbewerber-2021"
   ]
  },
  {
@@ -1061,7 +1071,8 @@
   "studien": [
    "clarke-duration-advertising-effect-1976",
    "shapiro-hitsch-tuchman-tv-288-brands-2021",
-   "thinkbox-profit-ability-2-2024"
+   "thinkbox-profit-ability-2-2024",
+   "jin-et-al-bayes-mmm-2017"
   ]
  },
  {
@@ -1326,7 +1337,8 @@
   "studien": [
    "strulov-shlain-left-digit-bias-2023",
    "ariely-economist-decoy-2008",
-   "escher-et-al-precise-price-endings-2026"
+   "escher-et-al-precise-price-endings-2026",
+   "blake-et-al-drip-pricing-stubhub-2021"
   ]
  },
  {
@@ -1343,7 +1355,9 @@
    "ad-fraud",
    "viewability"
   ],
-  "studien": []
+  "studien": [
+   "johnson-lewis-reiley-when-less-is-more-2017"
+  ]
  },
  {
   "id": "publication-bias",
@@ -1875,7 +1889,9 @@
   ],
   "studien": [
    "sethuraman-tellis-briesch-advertising-elasticities-2011",
-   "hu-lodish-krieger-tv-tests-2007"
+   "hu-lodish-krieger-tv-tests-2007",
+   "henningsen-heuke-clement-werbeelastizitaeten-2011",
+   "schoendeling-et-al-entertainment-elastizitaeten-2023"
   ]
  },
  {
